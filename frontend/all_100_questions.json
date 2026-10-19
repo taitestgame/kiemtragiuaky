@@ -1,0 +1,1502 @@
+[
+  {
+    "num": 101,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Ms. Carpenter will be attending the conference with ------- marketing team.",
+    "options": {
+      "A": "she",
+      "B": "her",
+      "C": "hers",
+      "D": "herself"
+    },
+    "correct": "B",
+    "hint": "Cần một tính từ sở hữu đứng trước cụm danh từ 'marketing team'. Đại từ sở hữu 'her' là đáp án đúng."
+  },
+  {
+    "num": 102,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "------- the last ten years, Bay City's population has grown by about 27 percent.",
+    "options": {
+      "A": "As",
+      "B": "Against",
+      "C": "During",
+      "D": "Below"
+    },
+    "correct": "C",
+    "hint": "Cụm 'During the last ten years' (Trong suốt 10 năm qua) chỉ khoảng thời gian xảy ra hành động chia thì hiện tại hoàn thành."
+  },
+  {
+    "num": 103,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Please congratulate Alan Schmit, ------- of the Leadership Award in Nursing at Knoll Hospital.",
+    "options": {
+      "A": "won",
+      "B": "wins",
+      "C": "winning",
+      "D": "winner"
+    },
+    "correct": "D",
+    "hint": "Cần một danh từ chỉ người làm đồng vị ngữ giải thích cho Alan Schmit. 'Winner' (người chiến thắng) là đáp án đúng."
+  },
+  {
+    "num": 104,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Ireland's largest software producer will ------- be opening a large facility in Cork.",
+    "options": {
+      "A": "soon",
+      "B": "such",
+      "C": "ever",
+      "D": "like"
+    },
+    "correct": "A",
+    "hint": "Trạng từ 'soon' (sớm) đứng giữa trợ động từ 'will' và động từ 'be opening' để diễn tả một sự việc sắp xảy ra trong tương lai."
+  },
+  {
+    "num": 105,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Ashburn Bank's online service has been in high demand -------.",
+    "options": {
+      "A": "lateness",
+      "B": "later",
+      "C": "lately",
+      "D": "latest"
+    },
+    "correct": "C",
+    "hint": "Trạng từ 'lately' (gần đây) là dấu hiệu nhận biết của thì hiện tại hoàn thành (has been)."
+  },
+  {
+    "num": 106,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The ------- of videos to electronic press releases can help companies showcase their products.",
+    "options": {
+      "A": "content",
+      "B": "addition",
+      "C": "pictures",
+      "D": "promotion"
+    },
+    "correct": "B",
+    "hint": "Cụm từ 'The addition of ... to ...' (việc bổ sung/thêm vào). 'Addition' phù hợp nhất về nghĩa ngữ cảnh."
+  },
+  {
+    "num": 107,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Ms. Hyun is reviewing the training manual to see if updates -------.",
+    "options": {
+      "A": "have need",
+      "B": "needing",
+      "C": "are needed",
+      "D": "to be needed"
+    },
+    "correct": "C",
+    "hint": "Chủ ngữ 'updates' (các bản cập nhật) là danh từ số nhiều và chịu tác động nên cần động từ ở thể bị động hiện tại đơn: 'are needed'."
+  },
+  {
+    "num": 108,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "When leaving the auditorium, please exit ------- the doors on the lower level.",
+    "options": {
+      "A": "except",
+      "B": "inside",
+      "C": "without",
+      "D": "through"
+    },
+    "correct": "D",
+    "hint": "Giới từ 'through' (qua/xuyên qua): 'exit through the doors' nghĩa là đi ra qua các cánh cửa ở tầng dưới."
+  },
+  {
+    "num": 109,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The judges for this year's screenplay competition include ------- from Hanovi Studios.",
+    "options": {
+      "A": "represents",
+      "B": "representatives",
+      "C": "represented",
+      "D": "represent"
+    },
+    "correct": "B",
+    "hint": "Sau động từ 'include' cần một tân ngữ danh từ chỉ người ở số nhiều. 'Representatives' (những người đại diện) là danh từ phù hợp."
+  },
+  {
+    "num": 110,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "I have attached my resume detailing my ------- experience in the hotel industry.",
+    "options": {
+      "A": "extensive",
+      "B": "punctual",
+      "C": "prospective",
+      "D": "accepted"
+    },
+    "correct": "A",
+    "hint": "Tính từ 'extensive' kết hợp với danh từ 'experience' tạo cụm 'extensive experience' (kinh nghiệm sâu rộng/dày dặn)."
+  },
+  {
+    "num": 111,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Remember to check the spelling of Mr. Kamashi's name when ------- the document.",
+    "options": {
+      "A": "revising",
+      "B": "revises",
+      "C": "revised",
+      "D": "revise"
+    },
+    "correct": "A",
+    "hint": "Rút gọn mệnh đề trạng ngữ chỉ thời gian khi cùng chủ ngữ (you): 'when revising' (khi chỉnh sửa tài liệu)."
+  },
+  {
+    "num": 112,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Residents visited City Hall to ask ------- developers will preserve the historic properties.",
+    "options": {
+      "A": "although",
+      "B": "since",
+      "C": "whether",
+      "D": "both"
+    },
+    "correct": "C",
+    "hint": "Động từ 'ask' đi với liên từ 'whether' mang nghĩa hỏi xem liệu các nhà phát triển có bảo tồn di tích lịch sử hay không."
+  },
+  {
+    "num": 113,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The Ford Group's proposed advertising campaign is by far the most ------- we have seen so far.",
+    "options": {
+      "A": "innovate",
+      "B": "innovative",
+      "C": "innovations",
+      "D": "innovatively"
+    },
+    "correct": "B",
+    "hint": "Sau 'the most' trong cấu trúc so sánh nhất của tính từ dài, cần một tính từ. 'Innovative' (mang tính đổi mới, sáng tạo)."
+  },
+  {
+    "num": 114,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Solei Landscaping announced that the design for the Cherry Hill building complex is ------- complete.",
+    "options": {
+      "A": "almost",
+      "B": "nearby",
+      "C": "anytime",
+      "D": "yet"
+    },
+    "correct": "A",
+    "hint": "Trạng từ mức độ 'almost' bổ nghĩa cho tính từ 'complete': 'almost complete' (gần như hoàn thành)."
+  },
+  {
+    "num": 115,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Daniel Nishida, the chief supply officer, asked that ------- be given full responsibility for approving all invoices.",
+    "options": {
+      "A": "he",
+      "B": "him",
+      "C": "his",
+      "D": "himself"
+    },
+    "correct": "A",
+    "hint": "Trong mệnh đề danh từ sau 'asked that', cần một đại từ nhân xưng làm chủ ngữ cho động từ bị động 'be given'. Do đó chọn 'he'."
+  },
+  {
+    "num": 116,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "In preparation for Mr. Kumar's retirement at the end of March, the Carolex Corporation will need to ------- a new facilities director.",
+    "options": {
+      "A": "resume",
+      "B": "compete",
+      "C": "recruit",
+      "D": "conduct"
+    },
+    "correct": "C",
+    "hint": "Động từ 'recruit' (tuyển dụng) kết hợp với tân ngữ 'a new facilities director' (một giám đốc cơ sở vật chất mới)."
+  },
+  {
+    "num": 117,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The team's contributions to the Ripton Group's marketing plan were very ------- acknowledged.",
+    "options": {
+      "A": "favor",
+      "B": "favorably",
+      "C": "favorable",
+      "D": "favored"
+    },
+    "correct": "B",
+    "hint": "Cần trạng từ 'favorably' đứng trước động từ quá khứ phân từ 'acknowledged' để bổ nghĩa cho động từ: được công nhận một cách tán thành/tích cực."
+  },
+  {
+    "num": 118,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "------- receiving the engineering award, Ms. Kwon made a point of thanking longtime mentors.",
+    "options": {
+      "A": "Onto",
+      "B": "Unlike",
+      "C": "About",
+      "D": "Upon"
+    },
+    "correct": "D",
+    "hint": "Cụm 'Upon + V-ing' nghĩa là 'Ngay khi nhận được...': 'Upon receiving the engineering award'."
+  },
+  {
+    "num": 119,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Please read the list of ------- qualifications to ensure that you have the necessary education and experience for the position.",
+    "options": {
+      "A": "slight",
+      "B": "equal",
+      "C": "obliged",
+      "D": "essential"
+    },
+    "correct": "D",
+    "hint": "Tính từ 'essential' (thiết yếu, bắt buộc) bổ nghĩa cho danh từ 'qualifications': 'essential qualifications' (tiêu chuẩn thiết yếu)."
+  },
+  {
+    "num": 120,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Choosing the best software tool to eliminate computer viruses is rarely simple, ------- it is important to seek expert advice.",
+    "options": {
+      "A": "why",
+      "B": "then",
+      "C": "nor",
+      "D": "so"
+    },
+    "correct": "D",
+    "hint": "Liên từ kết hợp 'so' (vì vậy, do đó) dùng để nối mệnh đề chỉ nguyên nhân - kết quả."
+  },
+  {
+    "num": 121,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Ms. Delgado would like to meet with all loan officers ------- reviewing any more loan applications.",
+    "options": {
+      "A": "now that",
+      "B": "as though",
+      "C": "before",
+      "D": "often"
+    },
+    "correct": "C",
+    "hint": "Giới từ chỉ thời gian 'before' đi kèm V-ing: 'before reviewing any more loan applications' (trước khi xem xét thêm hồ sơ vay)."
+  },
+  {
+    "num": 122,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Cedar Branch Hill has a ------- as a business-friendly environment that provides efficient licensing and other legal processes.",
+    "options": {
+      "A": "prediction",
+      "B": "courtesy",
+      "C": "reputation",
+      "D": "statement"
+    },
+    "correct": "C",
+    "hint": "Cụm 'have a reputation as...' (có danh tiếng là một...). 'Reputation' phù hợp hoàn toàn với ngữ cảnh kinh doanh thuận lợi."
+  },
+  {
+    "num": 123,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The actors held an additional rehearsal ------- perfect their performance in the final scene.",
+    "options": {
+      "A": "considerably",
+      "B": "in order to",
+      "C": "nevertheless",
+      "D": "as a result of"
+    },
+    "correct": "B",
+    "hint": "Cụm chỉ mục đích 'in order to + V (nguyên thể)': 'in order to perfect their performance' (nhằm hoàn thiện màn trình diễn của họ)."
+  },
+  {
+    "num": 124,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "RZT Technology will double the size of its Toronto laboratory to ------- the organization's rapid growth.",
+    "options": {
+      "A": "assign",
+      "B": "investigate",
+      "C": "experience",
+      "D": "accommodate"
+    },
+    "correct": "D",
+    "hint": "Động từ 'accommodate' mang nghĩa 'đáp ứng / chứa đủ': 'accommodate the organization's rapid growth' (đáp ứng sự tăng trưởng nhanh chóng)."
+  },
+  {
+    "num": 125,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Even though Smithton Electronics' second quarter was not -------, the company plans to invest large sums on research.",
+    "options": {
+      "A": "profitable",
+      "B": "profiting",
+      "C": "profitability",
+      "D": "profitably"
+    },
+    "correct": "A",
+    "hint": "Sau động từ tobe 'was not' cần một tính từ miêu tả tình trạng tài chính của quý hai: 'profitable' (có lợi nhuận / sinh lời)."
+  },
+  {
+    "num": 126,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The Williamsport Hotel is an ideal venue for the conference because of its ------- to the airport.",
+    "options": {
+      "A": "achievement",
+      "B": "proximity",
+      "C": "competence",
+      "D": "exception"
+    },
+    "correct": "B",
+    "hint": "Cụm từ 'proximity to...' (sự gần gũi về khoảng cách / vị trí gần với sân bay). Chọn 'proximity'."
+  },
+  {
+    "num": 127,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The second training session is for employees ------- responsibilities include processing payroll forms.",
+    "options": {
+      "A": "whose",
+      "B": "which",
+      "C": "what",
+      "D": "who"
+    },
+    "correct": "A",
+    "hint": "Đại từ quan hệ sở hữu 'whose' đứng trước danh từ 'responsibilities' để chỉ trách nhiệm của các nhân viên đó."
+  },
+  {
+    "num": 128,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "------- poorly the high-speed printer may be functioning, it is still making copies that are adequate for our purposes.",
+    "options": {
+      "A": "Rather",
+      "B": "Seldom",
+      "C": "However",
+      "D": "Thoroughly"
+    },
+    "correct": "C",
+    "hint": "Cấu trúc nhượng bộ: 'However + adv/adj + S + V' (Dù cho ... đến mức nào đi chăng nữa): 'However poorly the high-speed printer may be functioning'."
+  },
+  {
+    "num": 129,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "The long-awaited Weka 2XG digital camera will finally be ------- at a product exhibition on August 16.",
+    "options": {
+      "A": "reduced",
+      "B": "unveiled",
+      "C": "consulted",
+      "D": "resolved"
+    },
+    "correct": "B",
+    "hint": "Động từ 'unveil' (ra mắt, công bố sản phẩm mới). Ở thể bị động: 'will finally be unveiled' (cuối cùng sẽ được ra mắt)."
+  },
+  {
+    "num": 130,
+    "part": 5,
+    "passage_title": "",
+    "passage_text": "",
+    "text": "Northeast Community Finance ------- an online system in order to shorten service lines at branch locations.",
+    "options": {
+      "A": "has implemented",
+      "B": "to be implementing",
+      "C": "to have been implementing",
+      "D": "is implemented"
+    },
+    "correct": "A",
+    "hint": "Mệnh đề chính đang thiếu vị ngữ chủ động. 'Northeast Community Finance has implemented' (đã triển khai một hệ thống trực tuyến)."
+  },
+  {
+    "num": 131,
+    "part": 6,
+    "passage_title": "Questions 131-134 refer to the following advertisement.",
+    "passage_text": "Garden Shade Tree Landscaping\n\nGarden Shade creates tree landscapes and hedges to suit every garden, no matter the size. Our designs have ---131--- small urban gardens as well as large-scale projects commissioned by architects and property developers. ---132---. However, no single nursery can offer trees of all species and sizes. That is why Garden Shade has developed close relationships with many specialist growers ---133--- to provide us with the trees we need. Such resources give us the variety necessary to complete any ---134---. In other words, whatever your landscape design dream, we can make it happen.",
+    "text": "Select the best answer to complete the text at (131).",
+    "options": {
+      "A": "transformed",
+      "B": "related",
+      "C": "collected",
+      "D": "planted"
+    },
+    "correct": "A",
+    "hint": "Thì hiện tại hoàn thành: 'have transformed' (đã biến đổi/làm thay đổi diện mạo của những khu vườn đô thị nhỏ)."
+  },
+  {
+    "num": 132,
+    "part": 6,
+    "passage_title": "Questions 131-134 refer to the following advertisement.",
+    "passage_text": "Garden Shade Tree Landscaping\n\nGarden Shade creates tree landscapes and hedges to suit every garden, no matter the size. Our designs have ---131--- small urban gardens as well as large-scale projects commissioned by architects and property developers. ---132---. However, no single nursery can offer trees of all species and sizes. That is why Garden Shade has developed close relationships with many specialist growers ---133--- to provide us with the trees we need. Such resources give us the variety necessary to complete any ---134---. In other words, whatever your landscape design dream, we can make it happen.",
+    "text": "Select the best sentence to complete the text at (132).",
+    "options": {
+      "A": "We are here to answer your landscaping questions.",
+      "B": "For most projects, we use trees from our own nurseries.",
+      "C": "Some trees have specific growing requirements.",
+      "D": "Under normal conditions, nursery stock is guaranteed for one year."
+    },
+    "correct": "B",
+    "hint": "Câu sau dùng liên từ 'However, no single nursery...' (Tuy nhiên, không có vườn ươm đơn lẻ nào có thể cung cấp đủ cây mọi chủng loại và kích cỡ), do đó câu trước hợp lý nhất là nói rằng phần lớn các dự án công ty dùng cây từ chính vườn ươm của mình."
+  },
+  {
+    "num": 133,
+    "part": 6,
+    "passage_title": "Questions 131-134 refer to the following advertisement.",
+    "passage_text": "Garden Shade Tree Landscaping\n\nGarden Shade creates tree landscapes and hedges to suit every garden, no matter the size. Our designs have ---131--- small urban gardens as well as large-scale projects commissioned by architects and property developers. ---132---. However, no single nursery can offer trees of all species and sizes. That is why Garden Shade has developed close relationships with many specialist growers ---133--- to provide us with the trees we need. Such resources give us the variety necessary to complete any ---134---. In other words, whatever your landscape design dream, we can make it happen.",
+    "text": "Select the best answer to complete the text at (133).",
+    "options": {
+      "A": "readiness",
+      "B": "readies",
+      "C": "readiest",
+      "D": "ready"
+    },
+    "correct": "D",
+    "hint": "Cấu trúc tính từ đứng sau danh từ bổ nghĩa: 'specialist growers ready to provide us' (những người trồng chuyên môn sẵn sàng cung cấp cho chúng tôi)."
+  },
+  {
+    "num": 134,
+    "part": 6,
+    "passage_title": "Questions 131-134 refer to the following advertisement.",
+    "passage_text": "Garden Shade Tree Landscaping\n\nGarden Shade creates tree landscapes and hedges to suit every garden, no matter the size. Our designs have ---131--- small urban gardens as well as large-scale projects commissioned by architects and property developers. ---132---. However, no single nursery can offer trees of all species and sizes. That is why Garden Shade has developed close relationships with many specialist growers ---133--- to provide us with the trees we need. Such resources give us the variety necessary to complete any ---134---. In other words, whatever your landscape design dream, we can make it happen.",
+    "text": "Select the best answer to complete the text at (134).",
+    "options": {
+      "A": "study",
+      "B": "form",
+      "C": "order",
+      "D": "survey"
+    },
+    "correct": "C",
+    "hint": "Danh từ 'order' (đơn đặt hàng): 'complete any order' (hoàn thành bất kỳ đơn đặt hàng nào)."
+  },
+  {
+    "num": 135,
+    "part": 6,
+    "passage_title": "Questions 135-138 refer to the following e-mail.",
+    "passage_text": "To: Staff\nFrom: Amy Henwith\nDate: 15 January\nSubject: Exciting news\n\nDear Staff,\nThanks for a great year! In case you haven't heard, Henwith Home Supply will be ---135--- our second store this spring. This additional retail site will be located in the shopping centre at the corner of Aberton Parkway and Sutton Avenue in Derbyshire.\n\nWe will be accepting applications for cashiers and sales positions ---136--- 1 April. The personnel director will review applicants' qualifications from 2 April to 6 April, and ---137--- is scheduled to begin one week later. ---138---.\n\nBest,\nAmy Henwith, CEO\nHenwith Home Supply",
+    "text": "Select the best answer to complete the text at (135).",
+    "options": {
+      "A": "moving",
+      "B": "renovating",
+      "C": "expanding",
+      "D": "opening"
+    },
+    "correct": "D",
+    "hint": "'Opening our second store' (khai trương/mở cửa hàng thứ hai vào mùa xuân này)."
+  },
+  {
+    "num": 136,
+    "part": 6,
+    "passage_title": "Questions 135-138 refer to the following e-mail.",
+    "passage_text": "To: Staff\nFrom: Amy Henwith\nDate: 15 January\nSubject: Exciting news\n\nDear Staff,\nThanks for a great year! In case you haven't heard, Henwith Home Supply will be ---135--- our second store this spring. This additional retail site will be located in the shopping centre at the corner of Aberton Parkway and Sutton Avenue in Derbyshire.\n\nWe will be accepting applications for cashiers and sales positions ---136--- 1 April. The personnel director will review applicants' qualifications from 2 April to 6 April, and ---137--- is scheduled to begin one week later. ---138---.\n\nBest,\nAmy Henwith, CEO\nHenwith Home Supply",
+    "text": "Select the best answer to complete the text at (136).",
+    "options": {
+      "A": "until",
+      "B": "following",
+      "C": "according to",
+      "D": "for"
+    },
+    "correct": "A",
+    "hint": "Giới từ 'until' chỉ thời hạn nộp đơn cho đến ngày 1 tháng 4: 'until 1 April'."
+  },
+  {
+    "num": 137,
+    "part": 6,
+    "passage_title": "Questions 135-138 refer to the following e-mail.",
+    "passage_text": "To: Staff\nFrom: Amy Henwith\nDate: 15 January\nSubject: Exciting news\n\nDear Staff,\nThanks for a great year! In case you haven't heard, Henwith Home Supply will be ---135--- our second store this spring. This additional retail site will be located in the shopping centre at the corner of Aberton Parkway and Sutton Avenue in Derbyshire.\n\nWe will be accepting applications for cashiers and sales positions ---136--- 1 April. The personnel director will review applicants' qualifications from 2 April to 6 April, and ---137--- is scheduled to begin one week later. ---138---.\n\nBest,\nAmy Henwith, CEO\nHenwith Home Supply",
+    "text": "Select the best answer to complete the text at (137).",
+    "options": {
+      "A": "trainer",
+      "B": "training",
+      "C": "train",
+      "D": "trained"
+    },
+    "correct": "B",
+    "hint": "Danh từ không đếm được 'training' (hoạt động đào tạo nhân viên mới) làm chủ ngữ cho 'is scheduled to begin'."
+  },
+  {
+    "num": 138,
+    "part": 6,
+    "passage_title": "Questions 135-138 refer to the following e-mail.",
+    "passage_text": "To: Staff\nFrom: Amy Henwith\nDate: 15 January\nSubject: Exciting news\n\nDear Staff,\nThanks for a great year! In case you haven't heard, Henwith Home Supply will be ---135--- our second store this spring. This additional retail site will be located in the shopping centre at the corner of Aberton Parkway and Sutton Avenue in Derbyshire.\n\nWe will be accepting applications for cashiers and sales positions ---136--- 1 April. The personnel director will review applicants' qualifications from 2 April to 6 April, and ---137--- is scheduled to begin one week later. ---138---.\n\nBest,\nAmy Henwith, CEO\nHenwith Home Supply",
+    "text": "Select the best sentence to complete the text at (138).",
+    "options": {
+      "A": "Feel free to share this news with any interested friends.",
+      "B": "Make sure you have received all of the material.",
+      "C": "Contact Henwith Home Supply if you are still waiting for a response.",
+      "D": "Access to the main entrance will be blocked by construction."
+    },
+    "correct": "A",
+    "hint": "CEO gửi email thông báo tuyển dụng nội bộ và khuyến khích nhân viên chia sẻ tin tuyển dụng này cho bạn bè quan tâm: 'Feel free to share this news with any interested friends.'"
+  },
+  {
+    "num": 139,
+    "part": 6,
+    "passage_title": "Questions 139-142 refer to the following article.",
+    "passage_text": "Amon Donates to Music School in Grenel City\n\nA spokesperson for Brenda Amon ---139--- that the pianist made a sizeable donation toward the expansion of the Grenel City Conservatory of Music. \"Without her generous support,\" said Marc Diaz, director of facility planning, \"we would have been limited in our renovation plans going forward.\"\n\n---140---. Now, a new wing will be constructed on the south end of the ---141--- conservatory. Once completed, the building will boast a 700-seat auditorium, state-of-the-art recording studios, and new faculty and administrative offices. Additionally, private practice rooms will be located ---142--- the current student lounge.",
+    "text": "Select the best answer to complete the text at (139).",
+    "options": {
+      "A": "confirm",
+      "B": "confirmation",
+      "C": "has confirmed",
+      "D": "will confirm"
+    },
+    "correct": "C",
+    "hint": "Chủ ngữ số ít 'A spokesperson' cần động từ vị ngữ chia thì hiện tại hoàn thành 'has confirmed' (đã xác nhận tin tức vừa diễn ra)."
+  },
+  {
+    "num": 140,
+    "part": 6,
+    "passage_title": "Questions 139-142 refer to the following article.",
+    "passage_text": "Amon Donates to Music School in Grenel City\n\nA spokesperson for Brenda Amon ---139--- that the pianist made a sizeable donation toward the expansion of the Grenel City Conservatory of Music. \"Without her generous support,\" said Marc Diaz, director of facility planning, \"we would have been limited in our renovation plans going forward.\"\n\n---140---. Now, a new wing will be constructed on the south end of the ---141--- conservatory. Once completed, the building will boast a 700-seat auditorium, state-of-the-art recording studios, and new faculty and administrative offices. Additionally, private practice rooms will be located ---142--- the current student lounge.",
+    "text": "Select the best sentence to complete the text at (140).",
+    "options": {
+      "A": "Ms. Amon's performance at the conservatory was outstanding.",
+      "B": "The project had been delayed because of budget cuts.",
+      "C": "Student enrollment has decreased over the past few years.",
+      "D": "The original conservatory is being converted into student housing."
+    },
+    "correct": "B",
+    "hint": "Giải thích cho việc nhờ có sự hỗ trợ của cô Amon mà vượt qua khó khăn tài chính trước đây: 'The project had been delayed because of budget cuts.'"
+  },
+  {
+    "num": 141,
+    "part": 6,
+    "passage_title": "Questions 139-142 refer to the following article.",
+    "passage_text": "Amon Donates to Music School in Grenel City\n\nA spokesperson for Brenda Amon ---139--- that the pianist made a sizeable donation toward the expansion of the Grenel City Conservatory of Music. \"Without her generous support,\" said Marc Diaz, director of facility planning, \"we would have been limited in our renovation plans going forward.\"\n\n---140---. Now, a new wing will be constructed on the south end of the ---141--- conservatory. Once completed, the building will boast a 700-seat auditorium, state-of-the-art recording studios, and new faculty and administrative offices. Additionally, private practice rooms will be located ---142--- the current student lounge.",
+    "text": "Select the best answer to complete the text at (141).",
+    "options": {
+      "A": "temporary",
+      "B": "existing",
+      "C": "corrected",
+      "D": "proposed"
+    },
+    "correct": "B",
+    "hint": "Tính từ 'existing' (hiện có/hiện hữu): 'the south end of the existing conservatory' (khu cánh mới xây ở phía nam của nhạc viện hiện tại)."
+  },
+  {
+    "num": 142,
+    "part": 6,
+    "passage_title": "Questions 139-142 refer to the following article.",
+    "passage_text": "Amon Donates to Music School in Grenel City\n\nA spokesperson for Brenda Amon ---139--- that the pianist made a sizeable donation toward the expansion of the Grenel City Conservatory of Music. \"Without her generous support,\" said Marc Diaz, director of facility planning, \"we would have been limited in our renovation plans going forward.\"\n\n---140---. Now, a new wing will be constructed on the south end of the ---141--- conservatory. Once completed, the building will boast a 700-seat auditorium, state-of-the-art recording studios, and new faculty and administrative offices. Additionally, private practice rooms will be located ---142--- the current student lounge.",
+    "text": "Select the best answer to complete the text at (142).",
+    "options": {
+      "A": "adjacent to",
+      "B": "even though",
+      "C": "instead of",
+      "D": "as well as"
+    },
+    "correct": "A",
+    "hint": "Cụm giới từ chỉ vị trí 'adjacent to' (nằm liền kề, kế bên phòng chờ sinh viên hiện tại)."
+  },
+  {
+    "num": 143,
+    "part": 6,
+    "passage_title": "Questions 143-146 refer to the following e-mail.",
+    "passage_text": "Date: 11 January\nTo: Mitchell Parker <mparker@allmail.co.za>\nFrom: Inez Lofaro <ilofaro@daqtex.co.za>\nSubject: Product recall\n\nDear Mr. Parker,\nThank you for your recent ---143--- of the Daqtex Mini-V camera. We are contacting everyone who has recently bought this product to inform them that certain models are being recalled for repair. In these models, the electronic chip that enables the digital conversion of light is faulty. ---144---. Please ---145--- whether your camera has this problem by checking the serial number on the bottom of the camera. If it ends with the letters TVX, a repair will be required. Daqtex will pay all shipping costs for sending your Mini-V back to us. In addition, we will repair ---146--- free of charge.\n\nThank you,\nInez Lofaro, Customer Service Manager\nDaqtex Industries",
+    "text": "Select the best answer to complete the text at (143).",
+    "options": {
+      "A": "purchase",
+      "B": "review",
+      "C": "gift",
+      "D": "demonstration"
+    },
+    "correct": "A",
+    "hint": "Danh từ 'purchase' (việc mua hàng): 'Thank you for your recent purchase of the Daqtex Mini-V camera'."
+  },
+  {
+    "num": 144,
+    "part": 6,
+    "passage_title": "Questions 143-146 refer to the following e-mail.",
+    "passage_text": "Date: 11 January\nTo: Mitchell Parker <mparker@allmail.co.za>\nFrom: Inez Lofaro <ilofaro@daqtex.co.za>\nSubject: Product recall\n\nDear Mr. Parker,\nThank you for your recent ---143--- of the Daqtex Mini-V camera. We are contacting everyone who has recently bought this product to inform them that certain models are being recalled for repair. In these models, the electronic chip that enables the digital conversion of light is faulty. ---144---. Please ---145--- whether your camera has this problem by checking the serial number on the bottom of the camera. If it ends with the letters TVX, a repair will be required. Daqtex will pay all shipping costs for sending your Mini-V back to us. In addition, we will repair ---146--- free of charge.\n\nThank you,\nInez Lofaro, Customer Service Manager\nDaqtex Industries",
+    "text": "Select the best sentence to complete the text at (144).",
+    "options": {
+      "A": "We hope you will enjoy the product for many years to come.",
+      "B": "It is covered in the troubleshooting section of the manual.",
+      "C": "This defect will eventually interfere with the clarity of your images.",
+      "D": "This special feature is unavailable on some older models."
+    },
+    "correct": "C",
+    "hint": "Giải thích hậu quả của lỗi chip điện tử nêu ở câu trước: 'This defect will eventually interfere with the clarity of your images' (Lỗi này về sau sẽ làm giảm độ rõ nét của hình ảnh)."
+  },
+  {
+    "num": 145,
+    "part": 6,
+    "passage_title": "Questions 143-146 refer to the following e-mail.",
+    "passage_text": "Date: 11 January\nTo: Mitchell Parker <mparker@allmail.co.za>\nFrom: Inez Lofaro <ilofaro@daqtex.co.za>\nSubject: Product recall\n\nDear Mr. Parker,\nThank you for your recent ---143--- of the Daqtex Mini-V camera. We are contacting everyone who has recently bought this product to inform them that certain models are being recalled for repair. In these models, the electronic chip that enables the digital conversion of light is faulty. ---144---. Please ---145--- whether your camera has this problem by checking the serial number on the bottom of the camera. If it ends with the letters TVX, a repair will be required. Daqtex will pay all shipping costs for sending your Mini-V back to us. In addition, we will repair ---146--- free of charge.\n\nThank you,\nInez Lofaro, Customer Service Manager\nDaqtex Industries",
+    "text": "Select the best answer to complete the text at (145).",
+    "options": {
+      "A": "verification",
+      "B": "verified",
+      "C": "verify",
+      "D": "verifies"
+    },
+    "correct": "C",
+    "hint": "Câu mệnh lệnh bắt đầu bằng 'Please' đi với động từ nguyên thể không to: 'Please verify whether your camera...'."
+  },
+  {
+    "num": 146,
+    "part": 6,
+    "passage_title": "Questions 143-146 refer to the following e-mail.",
+    "passage_text": "Date: 11 January\nTo: Mitchell Parker <mparker@allmail.co.za>\nFrom: Inez Lofaro <ilofaro@daqtex.co.za>\nSubject: Product recall\n\nDear Mr. Parker,\nThank you for your recent ---143--- of the Daqtex Mini-V camera. We are contacting everyone who has recently bought this product to inform them that certain models are being recalled for repair. In these models, the electronic chip that enables the digital conversion of light is faulty. ---144---. Please ---145--- whether your camera has this problem by checking the serial number on the bottom of the camera. If it ends with the letters TVX, a repair will be required. Daqtex will pay all shipping costs for sending your Mini-V back to us. In addition, we will repair ---146--- free of charge.\n\nThank you,\nInez Lofaro, Customer Service Manager\nDaqtex Industries",
+    "text": "Select the best answer to complete the text at (146).",
+    "options": {
+      "A": "mine",
+      "B": "it",
+      "C": "theirs",
+      "D": "these"
+    },
+    "correct": "B",
+    "hint": "Đại từ tân ngữ 'it' thay thế cho danh từ số ít 'your camera' / 'Mini-V': 'repair it free of charge'."
+  },
+  {
+    "num": 147,
+    "part": 7,
+    "passage_title": "Questions 147-148 refer to the following notice.",
+    "passage_text": "Fastest Fleet\nRATE OUR SERVICES AND WIN FREE TRAVEL!\n\nVisit our Web site at www.fastestfleet.com/feedback and fill out the 5-minute questionnaire. You could win one of 10 FREE round-trip bus trips to any destination within the continental United States!\n\nYou must be 18 or older to participate. Only customers who have previously traveled with Fastest Fleet are eligible to enter.",
+    "text": "Where would the notice likely be seen?",
+    "options": {
+      "A": "In an airport",
+      "B": "In a bus station",
+      "C": "In a train station",
+      "D": "In a ferry terminal"
+    },
+    "correct": "B",
+    "hint": "Đoạn văn nói về giải thưởng '10 FREE round-trip bus trips' (10 chuyến xe buýt khứ hồi miễn phí) của hãng xe buýt Fastest Fleet, do đó thông báo này xuất hiện ở trạm xe buýt (bus station)."
+  },
+  {
+    "num": 148,
+    "part": 7,
+    "passage_title": "Questions 147-148 refer to the following notice.",
+    "passage_text": "Fastest Fleet\nRATE OUR SERVICES AND WIN FREE TRAVEL!\n\nVisit our Web site at www.fastestfleet.com/feedback and fill out the 5-minute questionnaire. You could win one of 10 FREE round-trip bus trips to any destination within the continental United States!\n\nYou must be 18 or older to participate. Only customers who have previously traveled with Fastest Fleet are eligible to enter.",
+    "text": "What are customers asked to do?",
+    "options": {
+      "A": "Provide feedback",
+      "B": "Buy a round-trip ticket",
+      "C": "Take advantage of a discount",
+      "D": "Join a customer loyalty program"
+    },
+    "correct": "A",
+    "hint": "Tiêu đề ghi: 'RATE OUR SERVICES... fill out the 5-minute questionnaire' (Đánh giá dịch vụ của chúng tôi / điền bảng khảo sát ý kiến) -> Đưa ra phản hồi (Provide feedback)."
+  },
+  {
+    "num": 149,
+    "part": 7,
+    "passage_title": "Questions 149-150 refer to the following online chat discussion.",
+    "passage_text": "Daniel Mather (9:38 A.M.)\nHi Sue, are you working at home today?\n\nSusan Maldini (9:39 A.M.)\nNo, but I'm at an off-site meeting. What's up?\n\nDaniel Mather (9:41 A.M.)\nThe manager asked me to make hard copies of some contract agreements for our records. I forgot my printer card at home. Could I borrow yours?\n\nSusan Maldini (9:42 A.M.)\nSure thing. It's in the business card holder on my desk.\n\nDaniel Mather (9:55 A.M.)\nOkay, done. Thank you! I put it back on your desk.",
+    "text": "What task was Mr. Mather given?",
+    "options": {
+      "A": "To send out contracts",
+      "B": "To repair the photocopier",
+      "C": "To monitor employee attendance",
+      "D": "To make copies of some documents"
+    },
+    "correct": "D",
+    "hint": "Daniel Mather viết: 'The manager asked me to make hard copies of some contract agreements' (Quản lý yêu cầu tôi in bản cứng một số hợp đồng)."
+  },
+  {
+    "num": 150,
+    "part": 7,
+    "passage_title": "Questions 149-150 refer to the following online chat discussion.",
+    "passage_text": "Daniel Mather (9:38 A.M.)\nHi Sue, are you working at home today?\n\nSusan Maldini (9:39 A.M.)\nNo, but I'm at an off-site meeting. What's up?\n\nDaniel Mather (9:41 A.M.)\nThe manager asked me to make hard copies of some contract agreements for our records. I forgot my printer card at home. Could I borrow yours?\n\nSusan Maldini (9:42 A.M.)\nSure thing. It's in the business card holder on my desk.\n\nDaniel Mather (9:55 A.M.)\nOkay, done. Thank you! I put it back on your desk.",
+    "text": "At 9:42 A.M., what does Ms. Maldini most likely mean when she writes \"Sure thing\"?",
+    "options": {
+      "A": "She can lend Mr. Mather her card.",
+      "B": "She will return to the office.",
+      "C": "She will contact the manager.",
+      "D": "She can copy the agreements."
+    },
+    "correct": "A",
+    "hint": "Daniel hỏi: 'Could I borrow yours?' (Tôi mượn thẻ in của bạn được không?). Susan trả lời: 'Sure thing. It's in the business card holder on my desk.' (Chắc chắn rồi/Được chứ, thẻ ở trong hộp danh thiếp)."
+  },
+  {
+    "num": 151,
+    "part": 7,
+    "passage_title": "Questions 151-152 refer to the following memo.",
+    "passage_text": "MEMO\nTo: Westhauser Laboratories Staff\nFrom: Area manager\nDate: March 22\nRe: Break-time beverages\n\nBeginning immediately, staff members are asked to contribute toward the cost of hot beverages available in our kitchenette. For each cup of coffee or tea you pour for yourself, we are requesting that you leave fifty cents. Please note that this amount is still far less than what you would pay at the cafe next to our building.\n\nEach time you prepare a beverage, just place your payment in the marked can on the counter next to the sink. As in the past, a variety of high-quality tea and coffee supplies will be made available, and products will be restocked monthly. Your understanding is appreciated so that everyone can continue to enjoy conveniently located hot beverages throughout the workday.",
+    "text": "What is the purpose of the memo?",
+    "options": {
+      "A": "To explain a new policy",
+      "B": "To discourage long breaks",
+      "C": "To provide a budget update",
+      "D": "To address staff complaints"
+    },
+    "correct": "A",
+    "hint": "Bản ghi nhớ giải thích quy định mới bắt đầu từ hôm nay: nhân viên đóng góp 50 cent cho mỗi tách trà/cà phê tự rót trong bếp nhỏ (To explain a new policy)."
+  },
+  {
+    "num": 152,
+    "part": 7,
+    "passage_title": "Questions 151-152 refer to the following memo.",
+    "passage_text": "MEMO\nTo: Westhauser Laboratories Staff\nFrom: Area manager\nDate: March 22\nRe: Break-time beverages\n\nBeginning immediately, staff members are asked to contribute toward the cost of hot beverages available in our kitchenette. For each cup of coffee or tea you pour for yourself, we are requesting that you leave fifty cents. Please note that this amount is still far less than what you would pay at the cafe next to our building.\n\nEach time you prepare a beverage, just place your payment in the marked can on the counter next to the sink. As in the past, a variety of high-quality tea and coffee supplies will be made available, and products will be restocked monthly. Your understanding is appreciated so that everyone can continue to enjoy conveniently located hot beverages throughout the workday.",
+    "text": "What are staff members asked to do?",
+    "options": {
+      "A": "Bring their own beverages to work",
+      "B": "Leave payments in a container",
+      "C": "Submit requests for supplies",
+      "D": "Keep the kitchenette tidy"
+    },
+    "correct": "B",
+    "hint": "Đoạn văn viết: 'just place your payment in the marked can on the counter next to the sink' (bỏ tiền vào hộp lon được đánh dấu trên quầy bên cạnh bồn rửa)."
+  },
+  {
+    "num": 153,
+    "part": 7,
+    "passage_title": "Questions 153-155 refer to the following notice.",
+    "passage_text": "Attention Milwaukee Modern Art Museum Visitors\n\nThe Meacham Room is closed temporarily as we prepare the space for the Modern Artist Showcase, which will run from April 1 to June 30.\n\nWe encourage you to return to experience this much-anticipated exhibit that will feature paintings, sculpture, and multimedia works by acclaimed international artists such as Sally Acosta, Frank Kember, Kimberly Hong, and Matilda Breeland. Of note is newcomer Theodore Carmody's sculpture collection that was dubbed \"most exciting debut of the decade\" by Ethan Lerner, renowned and respected critic of the Ireland Arts Chronicle. More information about the featured artists and the exhibit can be found at www.milwaukeemodernart.org. Or download our museum app to keep current with all upcoming events.",
+    "text": "What is indicated about the museum?",
+    "options": {
+      "A": "It is promoting an upcoming exhibit on its Web site.",
+      "B": "It is known for its sculpture exhibits.",
+      "C": "It will be closed for renovations in April.",
+      "D": "Its upcoming exhibit is free for museum members."
+    },
+    "correct": "A",
+    "hint": "Dẫn chứng: 'More information about the featured artists and the exhibit can be found at www.milwaukeemodernart.org' (Bảo tàng quảng bá thông tin triển lãm sắp tới trên trang web)."
+  },
+  {
+    "num": 154,
+    "part": 7,
+    "passage_title": "Questions 153-155 refer to the following notice.",
+    "passage_text": "Attention Milwaukee Modern Art Museum Visitors\n\nThe Meacham Room is closed temporarily as we prepare the space for the Modern Artist Showcase, which will run from April 1 to June 30.\n\nWe encourage you to return to experience this much-anticipated exhibit that will feature paintings, sculpture, and multimedia works by acclaimed international artists such as Sally Acosta, Frank Kember, Kimberly Hong, and Matilda Breeland. Of note is newcomer Theodore Carmody's sculpture collection that was dubbed \"most exciting debut of the decade\" by Ethan Lerner, renowned and respected critic of the Ireland Arts Chronicle. More information about the featured artists and the exhibit can be found at www.milwaukeemodernart.org. Or download our museum app to keep current with all upcoming events.",
+    "text": "Who is Ms. Breeland?",
+    "options": {
+      "A": "A journalist",
+      "B": "An artist",
+      "C": "A museum curator",
+      "D": "An art critic"
+    },
+    "correct": "B",
+    "hint": "Dẫn chứng: 'works by acclaimed international artists such as Sally Acosta, Frank Kember, Kimberly Hong, and Matilda Breeland' -> Cô Breeland là một nghệ sĩ (artist)."
+  },
+  {
+    "num": 155,
+    "part": 7,
+    "passage_title": "Questions 153-155 refer to the following notice.",
+    "passage_text": "Attention Milwaukee Modern Art Museum Visitors\n\nThe Meacham Room is closed temporarily as we prepare the space for the Modern Artist Showcase, which will run from April 1 to June 30.\n\nWe encourage you to return to experience this much-anticipated exhibit that will feature paintings, sculpture, and multimedia works by acclaimed international artists such as Sally Acosta, Frank Kember, Kimberly Hong, and Matilda Breeland. Of note is newcomer Theodore Carmody's sculpture collection that was dubbed \"most exciting debut of the decade\" by Ethan Lerner, renowned and respected critic of the Ireland Arts Chronicle. More information about the featured artists and the exhibit can be found at www.milwaukeemodernart.org. Or download our museum app to keep current with all upcoming events.",
+    "text": "Who was praised by Mr. Lerner?",
+    "options": {
+      "A": "Ms. Acosta",
+      "B": "Mr. Kember",
+      "C": "Ms. Hong",
+      "D": "Mr. Carmody"
+    },
+    "correct": "D",
+    "hint": "Dẫn chứng: 'Theodore Carmody's sculpture collection that was dubbed \"most exciting debut of the decade\" by Ethan Lerner' -> Người được khen là ông Carmody."
+  },
+  {
+    "num": 156,
+    "part": 7,
+    "passage_title": "Questions 156-157 refer to the following form.",
+    "passage_text": "Change of Work Order\nGeneral Contractor: Howard Kleiber, Mercrest Construction, 106 Pickens Way, Columbus, OH 43211\nProperty Owner: Oscar Copeland, 866 Andell Road, Columbus, OH 43215\nProject Start Date: July 10\nProject End Date: July 15\n\nThe contractor is hereby instructed to make the following changes to the contract documents:\nDescription of Work Added/Deleted:\nClient will now be supplying the countertops and faucet in addition to the kitchen cabinets. Therefore, the total project cost will be adjusted to only include the cost of installation.\n\nOriginal Contract Price: $3,496\nNet Reduction from Previous Contract: -$2,412\nTotal Project Cost with Approved Changes: $1,084\n\nRevised Payment Schedule:\n15% of total project cost ($162) is due upfront to secure contractor.\n$222 is due on project start date, and the remainder ($700) is due upon project completion.",
+    "text": "Why has the price of a project been adjusted?",
+    "options": {
+      "A": "The client is providing all the materials.",
+      "B": "The client wants to match a competitor's price.",
+      "C": "The contractor installed countertops incorrectly.",
+      "D": "The contractor overestimated the cost of labor."
+    },
+    "correct": "A",
+    "hint": "Dẫn chứng: 'Client will now be supplying the countertops and faucet in addition to the kitchen cabinets. Therefore, the total project cost will be adjusted to only include the cost of installation' (Khách hàng tự cung cấp toàn bộ vật liệu)."
+  },
+  {
+    "num": 157,
+    "part": 7,
+    "passage_title": "Questions 156-157 refer to the following form.",
+    "passage_text": "Change of Work Order\nGeneral Contractor: Howard Kleiber, Mercrest Construction, 106 Pickens Way, Columbus, OH 43211\nProperty Owner: Oscar Copeland, 866 Andell Road, Columbus, OH 43215\nProject Start Date: July 10\nProject End Date: July 15\n\nThe contractor is hereby instructed to make the following changes to the contract documents:\nDescription of Work Added/Deleted:\nClient will now be supplying the countertops and faucet in addition to the kitchen cabinets. Therefore, the total project cost will be adjusted to only include the cost of installation.\n\nOriginal Contract Price: $3,496\nNet Reduction from Previous Contract: -$2,412\nTotal Project Cost with Approved Changes: $1,084\n\nRevised Payment Schedule:\n15% of total project cost ($162) is due upfront to secure contractor.\n$222 is due on project start date, and the remainder ($700) is due upon project completion.",
+    "text": "How much money will Mr. Copeland most likely give Mr. Kleiber on July 15?",
+    "options": {
+      "A": "$162",
+      "B": "$222",
+      "C": "$700",
+      "D": "$1,084"
+    },
+    "correct": "C",
+    "hint": "Ngày 15 tháng 7 là ngày hoàn thành dự án ('Project End Date: July 15'). Lịch thanh toán ghi: 'the remainder ($700) is due upon project completion' -> Số tiền thanh toán là $700."
+  },
+  {
+    "num": 158,
+    "part": 7,
+    "passage_title": "Questions 158-160 refer to the following e-mail.",
+    "passage_text": "To: Dahlia Pawar <dpawar@bronsonco.ca>\nFrom: Anna Bondell <abondell@noaaa.com>\nSubject: Information\nDate: August 25\n\nDear Ms. Pawar:\nThank you for your continued membership in the North American Architects Association. I'm writing to remind you that preregistration for the annual conference closes on September 15. - [1] - . This year's conference features more than 100 sessions, an exhibit hall, and special workshops. - [2] - .\n\nPreregistration will save you $30 off the regular registration fee. - [3] - . At the same time, you'll be able to sign up in advance for a group tour of the city and for the VIP Banquet, which always fills up quickly. Visit our Web site to register online. - [4] - . If you prefer to register by telephone, contact us at 1-249-555-0177. Please have your membership number available.\n\nLooking forward to seeing you in Mexico City!\n\nSincerely,\nAnna Bondell, Membership Coordinator",
+    "text": "What most likely is Ms. Pawar's occupation?",
+    "options": {
+      "A": "Architect",
+      "B": "Writer",
+      "C": "Travel agent",
+      "D": "Conference organizer"
+    },
+    "correct": "A",
+    "hint": "Thư gửi lời cảm ơn thành viên: 'Thank you for your continued membership in the North American Architects Association' (Hiệp hội Kiến trúc sư Bắc Mỹ) -> Nghề nghiệp là Kiến trúc sư (Architect)."
+  },
+  {
+    "num": 159,
+    "part": 7,
+    "passage_title": "Questions 158-160 refer to the following e-mail.",
+    "passage_text": "To: Dahlia Pawar <dpawar@bronsonco.ca>\nFrom: Anna Bondell <abondell@noaaa.com>\nSubject: Information\nDate: August 25\n\nDear Ms. Pawar:\nThank you for your continued membership in the North American Architects Association. I'm writing to remind you that preregistration for the annual conference closes on September 15. - [1] - . This year's conference features more than 100 sessions, an exhibit hall, and special workshops. - [2] - .\n\nPreregistration will save you $30 off the regular registration fee. - [3] - . At the same time, you'll be able to sign up in advance for a group tour of the city and for the VIP Banquet, which always fills up quickly. Visit our Web site to register online. - [4] - . If you prefer to register by telephone, contact us at 1-249-555-0177. Please have your membership number available.\n\nLooking forward to seeing you in Mexico City!\n\nSincerely,\nAnna Bondell, Membership Coordinator",
+    "text": "What is NOT a benefit of conference preregistration?",
+    "options": {
+      "A": "A tour of Mexico City",
+      "B": "A hotel room upgrade",
+      "C": "Admission to a dinner",
+      "D": "Reduced registration fees"
+    },
+    "correct": "B",
+    "hint": "Các lợi ích được nêu: tour tham quan thành phố, tiệc VIP Banquet, giảm $30 phí đăng ký. Nâng hạng phòng khách sạn (hotel room upgrade) không hề được nhắc đến."
+  },
+  {
+    "num": 160,
+    "part": 7,
+    "passage_title": "Questions 158-160 refer to the following e-mail.",
+    "passage_text": "To: Dahlia Pawar <dpawar@bronsonco.ca>\nFrom: Anna Bondell <abondell@noaaa.com>\nSubject: Information\nDate: August 25\n\nDear Ms. Pawar:\nThank you for your continued membership in the North American Architects Association. I'm writing to remind you that preregistration for the annual conference closes on September 15. - [1] - . This year's conference features more than 100 sessions, an exhibit hall, and special workshops. - [2] - .\n\nPreregistration will save you $30 off the regular registration fee. - [3] - . At the same time, you'll be able to sign up in advance for a group tour of the city and for the VIP Banquet, which always fills up quickly. Visit our Web site to register online. - [4] - . If you prefer to register by telephone, contact us at 1-249-555-0177. Please have your membership number available.\n\nLooking forward to seeing you in Mexico City!\n\nSincerely,\nAnna Bondell, Membership Coordinator",
+    "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"You will also find the complete conference program there.\"",
+    "options": {
+      "A": "[1]",
+      "B": "[2]",
+      "C": "[3]",
+      "D": "[4]"
+    },
+    "correct": "D",
+    "hint": "Từ 'there' trong câu thay thế cho 'our Web site' ở câu ngay trước đó: 'Visit our Web site to register online. [4]. You will also find the complete conference program there.'"
+  },
+  {
+    "num": 161,
+    "part": 7,
+    "passage_title": "Questions 161-164 refer to the following online chat discussion.",
+    "passage_text": "Kurt Webber (4:30 P.M.)\nJake and I are grabbing a bite to eat after work, around 5:30. Anyone care to join us?\n\nDavi Avril (4:31 P.M.)\nMaybe. I still have some work to do on the midyear report. Where are you planning to go?\n\nKurt Webber (4:32 P.M.)\nWe're thinking of trying the new Mexican place on Slate Road. It's called Ocho Coronas.\n\nTim Foxx (4:33 P.M.)\nYou're out of luck. That place closed a few days ago.\n\nKurt Webber (4:34 P.M.)\nThat's too bad. I heard great things about it.\n\nTim Foxx (4:36 P.M.)\nHow about Lotus Tacos around the corner? They always have a special menu on Fridays.\n\nKurt Webber (4:37 P.M.)\nThat would be great. Do you want to go to Lotus Tacos, Jake?\n\nDavi Avril (4:38 P.M.)\nOK, but I won't be able to get there till about six.\n\nJake Rivas (4:39 P.M.)\nSounds good to me. And Davi, I just sent you the updated figures for the report.",
+    "text": "What are the writers discussing?",
+    "options": {
+      "A": "Where to hold a company banquet",
+      "B": "What restaurant serves the best food",
+      "C": "What is on the menu at Ocho Coronas",
+      "D": "Where to go for dinner"
+    },
+    "correct": "D",
+    "hint": "Các đồng nghiệp rủ nhau ăn tối sau giờ làm ('grabbing a bite to eat after work') và thảo luận chọn nhà hàng phù hợp (Where to go for dinner)."
+  },
+  {
+    "num": 162,
+    "part": 7,
+    "passage_title": "Questions 161-164 refer to the following online chat discussion.",
+    "passage_text": "Kurt Webber (4:30 P.M.)\nJake and I are grabbing a bite to eat after work, around 5:30. Anyone care to join us?\n\nDavi Avril (4:31 P.M.)\nMaybe. I still have some work to do on the midyear report. Where are you planning to go?\n\nKurt Webber (4:32 P.M.)\nWe're thinking of trying the new Mexican place on Slate Road. It's called Ocho Coronas.\n\nTim Foxx (4:33 P.M.)\nYou're out of luck. That place closed a few days ago.\n\nKurt Webber (4:34 P.M.)\nThat's too bad. I heard great things about it.\n\nTim Foxx (4:36 P.M.)\nHow about Lotus Tacos around the corner? They always have a special menu on Fridays.\n\nKurt Webber (4:37 P.M.)\nThat would be great. Do you want to go to Lotus Tacos, Jake?\n\nDavi Avril (4:38 P.M.)\nOK, but I won't be able to get there till about six.\n\nJake Rivas (4:39 P.M.)\nSounds good to me. And Davi, I just sent you the updated figures for the report.",
+    "text": "What information does Mr. Foxx provide about Ocho Coronas?",
+    "options": {
+      "A": "People have recommended it to him.",
+      "B": "It usually opens early on Fridays.",
+      "C": "The food there is not very authentic.",
+      "D": "It is no longer in business."
+    },
+    "correct": "D",
+    "hint": "Tim Foxx thông báo: 'That place closed a few days ago' -> Quán đã đóng cửa, không còn hoạt động (It is no longer in business)."
+  },
+  {
+    "num": 163,
+    "part": 7,
+    "passage_title": "Questions 161-164 refer to the following online chat discussion.",
+    "passage_text": "Kurt Webber (4:30 P.M.)\nJake and I are grabbing a bite to eat after work, around 5:30. Anyone care to join us?\n\nDavi Avril (4:31 P.M.)\nMaybe. I still have some work to do on the midyear report. Where are you planning to go?\n\nKurt Webber (4:32 P.M.)\nWe're thinking of trying the new Mexican place on Slate Road. It's called Ocho Coronas.\n\nTim Foxx (4:33 P.M.)\nYou're out of luck. That place closed a few days ago.\n\nKurt Webber (4:34 P.M.)\nThat's too bad. I heard great things about it.\n\nTim Foxx (4:36 P.M.)\nHow about Lotus Tacos around the corner? They always have a special menu on Fridays.\n\nKurt Webber (4:37 P.M.)\nThat would be great. Do you want to go to Lotus Tacos, Jake?\n\nDavi Avril (4:38 P.M.)\nOK, but I won't be able to get there till about six.\n\nJake Rivas (4:39 P.M.)\nSounds good to me. And Davi, I just sent you the updated figures for the report.",
+    "text": "At 4:34 P.M., why most likely does Mr. Webber write, \"That's too bad\"?",
+    "options": {
+      "A": "He wanted to try a new restaurant.",
+      "B": "Mr. Foxx cannot complete a project.",
+      "C": "Slate Road is too far away.",
+      "D": "He has a scheduling conflict."
+    },
+    "correct": "A",
+    "hint": "Kurt muốn ăn thử quán Mexico mới ('thinking of trying the new Mexican place') nhưng nghe tin quán đã đóng cửa nên tiếc nuối: 'That's too bad. I heard great things about it.'"
+  },
+  {
+    "num": 164,
+    "part": 7,
+    "passage_title": "Questions 161-164 refer to the following online chat discussion.",
+    "passage_text": "Kurt Webber (4:30 P.M.)\nJake and I are grabbing a bite to eat after work, around 5:30. Anyone care to join us?\n\nDavi Avril (4:31 P.M.)\nMaybe. I still have some work to do on the midyear report. Where are you planning to go?\n\nKurt Webber (4:32 P.M.)\nWe're thinking of trying the new Mexican place on Slate Road. It's called Ocho Coronas.\n\nTim Foxx (4:33 P.M.)\nYou're out of luck. That place closed a few days ago.\n\nKurt Webber (4:34 P.M.)\nThat's too bad. I heard great things about it.\n\nTim Foxx (4:36 P.M.)\nHow about Lotus Tacos around the corner? They always have a special menu on Fridays.\n\nKurt Webber (4:37 P.M.)\nThat would be great. Do you want to go to Lotus Tacos, Jake?\n\nDavi Avril (4:38 P.M.)\nOK, but I won't be able to get there till about six.\n\nJake Rivas (4:39 P.M.)\nSounds good to me. And Davi, I just sent you the updated figures for the report.",
+    "text": "What does Mr. Avril decide to do?",
+    "options": {
+      "A": "Research nearby restaurants",
+      "B": "Work extra hours tomorrow",
+      "C": "Join his coworkers for a meal",
+      "D": "Have food delivered to the office"
+    },
+    "correct": "C",
+    "hint": "Davi Avril chốt: 'OK, but I won't be able to get there till about six' -> Đồng ý tham gia ăn cùng mọi người vào khoảng 6 giờ (Join his coworkers for a meal)."
+  },
+  {
+    "num": 165,
+    "part": 7,
+    "passage_title": "Questions 165-167 refer to the following letter.",
+    "passage_text": "Multinational Voice Magazine\nPO Box 17999, Greenlane, Auckland 1546\n\nTuata Wehi\n16 Page Street, Wellington 6023\n\nDear Mr. Wehi,\nOn 25 March, your three-month trial subscription to Multinational Voice Magazine will expire. To continue to receive this vital news resource, please fill out the postage-paid renewal card included with this letter and mail it in before the end of this month. You may select from a three-month, six-month, one-year, or two-year subscription. Do note that our two-year offer is by far the most economical. Also, the one- and two-year options include the \"Notable People of the Year\" special edition.\n\nThank you once again for choosing Multinational Voice Magazine. We continually strive to provide the best commentary on global affairs from a New Zealand perspective. To provide your feedback, please visit www.mvmagazine.co.nz and fill out our online comment form.\n\nSincerely,\nEstelle Pearson, Customer Service Representative",
+    "text": "Why was the letter sent to Mr. Wehi?",
+    "options": {
+      "A": "To report a late payment",
+      "B": "To offer him a refund",
+      "C": "To promote a new service",
+      "D": "To remind him to resubscribe"
+    },
+    "correct": "D",
+    "hint": "Thư thông báo gói đăng ký dùng thử 3 tháng sắp hết hạn và nhắc ông gia hạn đặt báo tiếp tục (To remind him to resubscribe)."
+  },
+  {
+    "num": 166,
+    "part": 7,
+    "passage_title": "Questions 165-167 refer to the following letter.",
+    "passage_text": "Multinational Voice Magazine\nPO Box 17999, Greenlane, Auckland 1546\n\nTuata Wehi\n16 Page Street, Wellington 6023\n\nDear Mr. Wehi,\nOn 25 March, your three-month trial subscription to Multinational Voice Magazine will expire. To continue to receive this vital news resource, please fill out the postage-paid renewal card included with this letter and mail it in before the end of this month. You may select from a three-month, six-month, one-year, or two-year subscription. Do note that our two-year offer is by far the most economical. Also, the one- and two-year options include the \"Notable People of the Year\" special edition.\n\nThank you once again for choosing Multinational Voice Magazine. We continually strive to provide the best commentary on global affairs from a New Zealand perspective. To provide your feedback, please visit www.mvmagazine.co.nz and fill out our online comment form.\n\nSincerely,\nEstelle Pearson, Customer Service Representative",
+    "text": "For about how long has Mr. Wehi been receiving Multinational Voice Magazine?",
+    "options": {
+      "A": "For three months",
+      "B": "For six months",
+      "C": "For one year",
+      "D": "For two years"
+    },
+    "correct": "A",
+    "hint": "Dẫn chứng: 'On 25 March, your three-month trial subscription to Multinational Voice Magazine will expire' -> Ông đã nhận tạp chí được 3 tháng."
+  },
+  {
+    "num": 167,
+    "part": 7,
+    "passage_title": "Questions 165-167 refer to the following letter.",
+    "passage_text": "Multinational Voice Magazine\nPO Box 17999, Greenlane, Auckland 1546\n\nTuata Wehi\n16 Page Street, Wellington 6023\n\nDear Mr. Wehi,\nOn 25 March, your three-month trial subscription to Multinational Voice Magazine will expire. To continue to receive this vital news resource, please fill out the postage-paid renewal card included with this letter and mail it in before the end of this month. You may select from a three-month, six-month, one-year, or two-year subscription. Do note that our two-year offer is by far the most economical. Also, the one- and two-year options include the \"Notable People of the Year\" special edition.\n\nThank you once again for choosing Multinational Voice Magazine. We continually strive to provide the best commentary on global affairs from a New Zealand perspective. To provide your feedback, please visit www.mvmagazine.co.nz and fill out our online comment form.\n\nSincerely,\nEstelle Pearson, Customer Service Representative",
+    "text": "What is one thing that Mr. Wehi is encouraged to do?",
+    "options": {
+      "A": "Call Ms. Pearson directly",
+      "B": "Offer his opinion",
+      "C": "Attend an event",
+      "D": "Confirm his address"
+    },
+    "correct": "B",
+    "hint": "Dẫn chứng: 'To provide your feedback, please visit www.mvmagazine.co.nz and fill out our online comment form' -> Đưa ra ý kiến phản hồi (Offer his opinion)."
+  },
+  {
+    "num": 168,
+    "part": 7,
+    "passage_title": "Questions 168-171 refer to the following e-mail.",
+    "passage_text": "From: info@morganairportshuttle.com\nTo: tgrant@tivimail.com\nSubject: re: Suitcase on board\nDate: January 19\n\nDear Mr. Grant,\nThanks for your inquiry. There are a number of suitcases in our storeroom that match the description you provided, but we have not found one bearing a name tag identifying you as the owner. You will need to come over and find yours on-site at 620 Baker St. Please note that you will be asked to indicate what time your bus left the airport terminal or, better yet, to present your ticket if you still have it.\n\nWe are open 6 A.M.-10 P.M. every day. Please do not delay. Due to the large number of items found by our drivers, we have no choice but to limit storage time to 7 days only, after which we dispose of the item.\n\nRegards,\nGina Steiner, Morgan Airport Shuttle",
+    "text": "Where does Ms. Steiner work?",
+    "options": {
+      "A": "At a transportation service",
+      "B": "At an insurance company",
+      "C": "At a car rental company",
+      "D": "At a travel agency"
+    },
+    "correct": "A",
+    "hint": "Chữ ký ghi 'Morgan Airport Shuttle' (Dịch vụ xe đưa đón sân bay) -> Dịch vụ vận tải (At a transportation service)."
+  },
+  {
+    "num": 169,
+    "part": 7,
+    "passage_title": "Questions 168-171 refer to the following e-mail.",
+    "passage_text": "From: info@morganairportshuttle.com\nTo: tgrant@tivimail.com\nSubject: re: Suitcase on board\nDate: January 19\n\nDear Mr. Grant,\nThanks for your inquiry. There are a number of suitcases in our storeroom that match the description you provided, but we have not found one bearing a name tag identifying you as the owner. You will need to come over and find yours on-site at 620 Baker St. Please note that you will be asked to indicate what time your bus left the airport terminal or, better yet, to present your ticket if you still have it.\n\nWe are open 6 A.M.-10 P.M. every day. Please do not delay. Due to the large number of items found by our drivers, we have no choice but to limit storage time to 7 days only, after which we dispose of the item.\n\nRegards,\nGina Steiner, Morgan Airport Shuttle",
+    "text": "What did Mr. Grant most likely inquire about?",
+    "options": {
+      "A": "Reservation options",
+      "B": "Luggage limitations",
+      "C": "Travel expenses",
+      "D": "Lost property"
+    },
+    "correct": "D",
+    "hint": "Tiêu đề 're: Suitcase on board' và nội dung nói về việc tìm hành lý để quên trên xe -> Đồ thất lạc (Lost property)."
+  },
+  {
+    "num": 170,
+    "part": 7,
+    "passage_title": "Questions 168-171 refer to the following e-mail.",
+    "passage_text": "From: info@morganairportshuttle.com\nTo: tgrant@tivimail.com\nSubject: re: Suitcase on board\nDate: January 19\n\nDear Mr. Grant,\nThanks for your inquiry. There are a number of suitcases in our storeroom that match the description you provided, but we have not found one bearing a name tag identifying you as the owner. You will need to come over and find yours on-site at 620 Baker St. Please note that you will be asked to indicate what time your bus left the airport terminal or, better yet, to present your ticket if you still have it.\n\nWe are open 6 A.M.-10 P.M. every day. Please do not delay. Due to the large number of items found by our drivers, we have no choice but to limit storage time to 7 days only, after which we dispose of the item.\n\nRegards,\nGina Steiner, Morgan Airport Shuttle",
+    "text": "What information will Mr. Grant be asked to provide?",
+    "options": {
+      "A": "His address",
+      "B": "His phone number",
+      "C": "His departure time",
+      "D": "His final destination"
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng: 'Please note that you will be asked to indicate what time your bus left the airport terminal' (Giờ xe buýt rời nhà ga sân bay -> departure time)."
+  },
+  {
+    "num": 171,
+    "part": 7,
+    "passage_title": "Questions 168-171 refer to the following e-mail.",
+    "passage_text": "From: info@morganairportshuttle.com\nTo: tgrant@tivimail.com\nSubject: re: Suitcase on board\nDate: January 19\n\nDear Mr. Grant,\nThanks for your inquiry. There are a number of suitcases in our storeroom that match the description you provided, but we have not found one bearing a name tag identifying you as the owner. You will need to come over and find yours on-site at 620 Baker St. Please note that you will be asked to indicate what time your bus left the airport terminal or, better yet, to present your ticket if you still have it.\n\nWe are open 6 A.M.-10 P.M. every day. Please do not delay. Due to the large number of items found by our drivers, we have no choice but to limit storage time to 7 days only, after which we dispose of the item.\n\nRegards,\nGina Steiner, Morgan Airport Shuttle",
+    "text": "What is Mr. Grant advised to do?",
+    "options": {
+      "A": "Take advantage of a discount",
+      "B": "Compare payment options",
+      "C": "Visit the office as soon as possible",
+      "D": "Print out an electronic ticket"
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng: 'Please do not delay... limit storage time to 7 days only' -> Hãy đến văn phòng càng sớm càng tốt kẻo bị xử lý bỏ đồ (Visit the office as soon as possible)."
+  },
+  {
+    "num": 172,
+    "part": 7,
+    "passage_title": "Questions 172-175 refer to the following article.",
+    "passage_text": "Spectacular Bridge Created with Super Cranes\nBy Marcia Brunon\nMarch 14\n\nFive years ago, the town of Stonewell, situated at the foot of the Marshall Mountains, decided to finance the building of a bridge across the Stonewell River. It was planned as a much-needed northern route for the town. - [1] - .\nThe efficiency of the project was directly attributable to two RWC451 cranes, manufactured by Ronsonworks, a company based in England. The two identical tower cranes were owned by the construction firm Redding Builders. One crane was assembled at the south bank of the river, while the other one was placed on a concrete pylon in the center of the Stonewell River. - [2] - .\nThe assembly of the second crane was particularly challenging, as it required the use of another crane on a floating barge.\n\n\"Any large project is going to require unforeseen adjustments that may disrupt an official construction schedule,\" said Roger Lee, chief engineer of Redding Builders. - [3] - .\nIn this case, the metal anchors that connected the bridge to the pylons were determined to be too small. The new anchors weighed 22 tons, which is within the safe lifting capacity of an RWC451 crane. - [4] - .\nEngineers reinforced the existing cranes for extra security, and the cranes performed well.\n\nToday, this postcard-worthy bridge is the pride of Stonewell, featuring viewing platforms for pedestrians, hikers, and visitors at the base of each pier overlooking the mountainous valley. Construction materials and colors harmonize beautifully with the local environment. All design elements, including the piers, viewing platforms, and railings, complement the natural landscape, making the bridge a hit with everyone from hikers to the truck drivers who now include it in their regular route.",
+    "text": "What is mentioned about the cranes?",
+    "options": {
+      "A": "They are owned by Ronsonworks.",
+      "B": "They were designed specifically for the Stonewell Bridge project.",
+      "C": "They were assembled on the Stonewell Bridge construction site.",
+      "D": "They weigh more than 22 tons."
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng: 'One crane was assembled at the south bank of the river, while the other one was placed on a concrete pylon in the center of the Stonewell River' -> Cả 2 cần cẩu đều được lắp ráp ngay tại công trường thi công cầu."
+  },
+  {
+    "num": 173,
+    "part": 7,
+    "passage_title": "Questions 172-175 refer to the following article.",
+    "passage_text": "Spectacular Bridge Created with Super Cranes\nBy Marcia Brunon\nMarch 14\n\nFive years ago, the town of Stonewell, situated at the foot of the Marshall Mountains, decided to finance the building of a bridge across the Stonewell River. It was planned as a much-needed northern route for the town. - [1] - .\nThe efficiency of the project was directly attributable to two RWC451 cranes, manufactured by Ronsonworks, a company based in England. The two identical tower cranes were owned by the construction firm Redding Builders. One crane was assembled at the south bank of the river, while the other one was placed on a concrete pylon in the center of the Stonewell River. - [2] - .\nThe assembly of the second crane was particularly challenging, as it required the use of another crane on a floating barge.\n\n\"Any large project is going to require unforeseen adjustments that may disrupt an official construction schedule,\" said Roger Lee, chief engineer of Redding Builders. - [3] - .\nIn this case, the metal anchors that connected the bridge to the pylons were determined to be too small. The new anchors weighed 22 tons, which is within the safe lifting capacity of an RWC451 crane. - [4] - .\nEngineers reinforced the existing cranes for extra security, and the cranes performed well.\n\nToday, this postcard-worthy bridge is the pride of Stonewell, featuring viewing platforms for pedestrians, hikers, and visitors at the base of each pier overlooking the mountainous valley. Construction materials and colors harmonize beautifully with the local environment. All design elements, including the piers, viewing platforms, and railings, complement the natural landscape, making the bridge a hit with everyone from hikers to the truck drivers who now include it in their regular route.",
+    "text": "What is indicated by Mr. Lee?",
+    "options": {
+      "A": "His professional specialty is bridge construction.",
+      "B": "He believes that projects like the Stonewell Bridge always present problems.",
+      "C": "He delayed the Stonewell Bridge project for budgetary reasons.",
+      "D": "His first project as a chief engineer was the Stonewell Bridge."
+    },
+    "correct": "B",
+    "hint": "Dẫn chứng lời Roger Lee: 'Any large project is going to require unforeseen adjustments that may disrupt an official construction schedule' -> Các dự án lớn luôn phát sinh vấn đề bất ngờ."
+  },
+  {
+    "num": 174,
+    "part": 7,
+    "passage_title": "Questions 172-175 refer to the following article.",
+    "passage_text": "Spectacular Bridge Created with Super Cranes\nBy Marcia Brunon\nMarch 14\n\nFive years ago, the town of Stonewell, situated at the foot of the Marshall Mountains, decided to finance the building of a bridge across the Stonewell River. It was planned as a much-needed northern route for the town. - [1] - .\nThe efficiency of the project was directly attributable to two RWC451 cranes, manufactured by Ronsonworks, a company based in England. The two identical tower cranes were owned by the construction firm Redding Builders. One crane was assembled at the south bank of the river, while the other one was placed on a concrete pylon in the center of the Stonewell River. - [2] - .\nThe assembly of the second crane was particularly challenging, as it required the use of another crane on a floating barge.\n\n\"Any large project is going to require unforeseen adjustments that may disrupt an official construction schedule,\" said Roger Lee, chief engineer of Redding Builders. - [3] - .\nIn this case, the metal anchors that connected the bridge to the pylons were determined to be too small. The new anchors weighed 22 tons, which is within the safe lifting capacity of an RWC451 crane. - [4] - .\nEngineers reinforced the existing cranes for extra security, and the cranes performed well.\n\nToday, this postcard-worthy bridge is the pride of Stonewell, featuring viewing platforms for pedestrians, hikers, and visitors at the base of each pier overlooking the mountainous valley. Construction materials and colors harmonize beautifully with the local environment. All design elements, including the piers, viewing platforms, and railings, complement the natural landscape, making the bridge a hit with everyone from hikers to the truck drivers who now include it in their regular route.",
+    "text": "What is NOT suggested about the Stonewell Bridge?",
+    "options": {
+      "A": "It provides a northward exit out of town.",
+      "B": "It was designed for both pedestrians and vehicles.",
+      "C": "It was designed to blend with the natural setting.",
+      "D": "It required more workers than first estimated."
+    },
+    "correct": "D",
+    "hint": "Cầu cung cấp tuyến phía bắc (A), có đài ngắm cảnh cho người đi bộ và làn xe tải (B), hòa hợp cảnh quan tự nhiên (C). Việc cần nhiều công nhân hơn ước tính ban đầu (D) không được nhắc đến."
+  },
+  {
+    "num": 175,
+    "part": 7,
+    "passage_title": "Questions 172-175 refer to the following article.",
+    "passage_text": "Spectacular Bridge Created with Super Cranes\nBy Marcia Brunon\nMarch 14\n\nFive years ago, the town of Stonewell, situated at the foot of the Marshall Mountains, decided to finance the building of a bridge across the Stonewell River. It was planned as a much-needed northern route for the town. - [1] - .\nThe efficiency of the project was directly attributable to two RWC451 cranes, manufactured by Ronsonworks, a company based in England. The two identical tower cranes were owned by the construction firm Redding Builders. One crane was assembled at the south bank of the river, while the other one was placed on a concrete pylon in the center of the Stonewell River. - [2] - .\nThe assembly of the second crane was particularly challenging, as it required the use of another crane on a floating barge.\n\n\"Any large project is going to require unforeseen adjustments that may disrupt an official construction schedule,\" said Roger Lee, chief engineer of Redding Builders. - [3] - .\nIn this case, the metal anchors that connected the bridge to the pylons were determined to be too small. The new anchors weighed 22 tons, which is within the safe lifting capacity of an RWC451 crane. - [4] - .\nEngineers reinforced the existing cranes for extra security, and the cranes performed well.\n\nToday, this postcard-worthy bridge is the pride of Stonewell, featuring viewing platforms for pedestrians, hikers, and visitors at the base of each pier overlooking the mountainous valley. Construction materials and colors harmonize beautifully with the local environment. All design elements, including the piers, viewing platforms, and railings, complement the natural landscape, making the bridge a hit with everyone from hikers to the truck drivers who now include it in their regular route.",
+    "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The project, which was expected to take four years, was completed in less than three.\"",
+    "options": {
+      "A": "[1]",
+      "B": "[2]",
+      "C": "[3]",
+      "D": "[4]"
+    },
+    "correct": "A",
+    "hint": "Vị trí [1] hợp lý nhất vì nối tiếp thông tin dự án hoàn thành nhanh hơn dự kiến (dưới 3 năm so với 4 năm), mở đầu cho câu tiếp theo giải thích lý do: 'The efficiency of the project was directly attributable to two RWC451 cranes...'"
+  },
+  {
+    "num": 176,
+    "part": 7,
+    "passage_title": "Questions 176-180 refer to the following memo and schedule.",
+    "passage_text": "MEMO\nTo: Absalom and Twigg Law Firm employees\nFrom: Shawna Montgomery, Office Manager\nSubject: March plans\nSent: February 12\nAttachment: Schedule\n\nAs most of you are aware, our schedule will be a bit challenging during the first week in March. Various rooms and offices will need to be vacated for certain periods to allow work crews to repaint, recarpet, and replace old furniture. Affected employees will need to box up all their office items by 3 P.M. on the day before their room is scheduled for work (please see the attached schedule). Two teams of workers will be on-site, so more than one room at a time will need to be vacated. Note that any rooms due for work on Monday must be packed up and vacated by Friday afternoon, February 27.\n\nBoxes will be provided. Leave your boxes in the rooms for the work crews to remove. Please label them with your name and office number so that the crews can return them to the correct offices once the work is complete. Please make arrangements to continue working on your assignments while the work crews are in your rooms. The conference room (Room 409) will remain available to be used as a workspace during the entire week. Another possible option is to request permission from your supervisor to telecommute for one or two days.\n\nPlease have patience with these temporary inconveniences and do not hesitate to contact me with any questions or concerns.\n\nWORK SCHEDULE - March 2 to March 6\nMONDAY, March 2: Room 401 (Meeting room) | Room 403 (Allie Stevens & Matt Beale)\nTUESDAY, March 3: Room 402 (Marlene Asbury & Luke Roe) | Room 408 (Meeting room)\nWEDNESDAY, March 4: Room 405 (David Cho) | Room 406 (Meeting room)\nTHURSDAY, March 5: Room 407 (Jung Li) | Room 404 (Elliot Hagburg & Ana Keller)\nFRIDAY, March 6: Final inspections and cleanup",
+    "text": "Why was the memo sent to employees?",
+    "options": {
+      "A": "To alert them to upcoming renovations",
+      "B": "To announce that the firm will be relocating",
+      "C": "To request feedback about new workplace facilities",
+      "D": "To address their complaints about building maintenance"
+    },
+    "correct": "A",
+    "hint": "Bản ghi nhớ gửi cho nhân viên để cảnh báo về việc sửa chữa, sơn lại và thay thảm văn phòng vào đầu tháng 3 (To alert them to upcoming renovations)."
+  },
+  {
+    "num": 177,
+    "part": 7,
+    "passage_title": "Questions 176-180 refer to the following memo and schedule.",
+    "passage_text": "MEMO\nTo: Absalom and Twigg Law Firm employees\nFrom: Shawna Montgomery, Office Manager\nSubject: March plans\nSent: February 12\nAttachment: Schedule\n\nAs most of you are aware, our schedule will be a bit challenging during the first week in March. Various rooms and offices will need to be vacated for certain periods to allow work crews to repaint, recarpet, and replace old furniture. Affected employees will need to box up all their office items by 3 P.M. on the day before their room is scheduled for work (please see the attached schedule). Two teams of workers will be on-site, so more than one room at a time will need to be vacated. Note that any rooms due for work on Monday must be packed up and vacated by Friday afternoon, February 27.\n\nBoxes will be provided. Leave your boxes in the rooms for the work crews to remove. Please label them with your name and office number so that the crews can return them to the correct offices once the work is complete. Please make arrangements to continue working on your assignments while the work crews are in your rooms. The conference room (Room 409) will remain available to be used as a workspace during the entire week. Another possible option is to request permission from your supervisor to telecommute for one or two days.\n\nPlease have patience with these temporary inconveniences and do not hesitate to contact me with any questions or concerns.\n\nWORK SCHEDULE - March 2 to March 6\nMONDAY, March 2: Room 401 (Meeting room) | Room 403 (Allie Stevens & Matt Beale)\nTUESDAY, March 3: Room 402 (Marlene Asbury & Luke Roe) | Room 408 (Meeting room)\nWEDNESDAY, March 4: Room 405 (David Cho) | Room 406 (Meeting room)\nTHURSDAY, March 5: Room 407 (Jung Li) | Room 404 (Elliot Hagburg & Ana Keller)\nFRIDAY, March 6: Final inspections and cleanup",
+    "text": "What are employees instructed to do?",
+    "options": {
+      "A": "Report for work early",
+      "B": "Schedule a meeting with a manager",
+      "C": "Indicate which office supplies are theirs",
+      "D": "Update their contact information online"
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng: 'Please label them with your name and office number so that the crews can return them to the correct offices' (Dán nhãn tên và số phòng để đánh dấu đồ dùng của mình)."
+  },
+  {
+    "num": 178,
+    "part": 7,
+    "passage_title": "Questions 176-180 refer to the following memo and schedule.",
+    "passage_text": "MEMO\nTo: Absalom and Twigg Law Firm employees\nFrom: Shawna Montgomery, Office Manager\nSubject: March plans\nSent: February 12\nAttachment: Schedule\n\nAs most of you are aware, our schedule will be a bit challenging during the first week in March. Various rooms and offices will need to be vacated for certain periods to allow work crews to repaint, recarpet, and replace old furniture. Affected employees will need to box up all their office items by 3 P.M. on the day before their room is scheduled for work (please see the attached schedule). Two teams of workers will be on-site, so more than one room at a time will need to be vacated. Note that any rooms due for work on Monday must be packed up and vacated by Friday afternoon, February 27.\n\nBoxes will be provided. Leave your boxes in the rooms for the work crews to remove. Please label them with your name and office number so that the crews can return them to the correct offices once the work is complete. Please make arrangements to continue working on your assignments while the work crews are in your rooms. The conference room (Room 409) will remain available to be used as a workspace during the entire week. Another possible option is to request permission from your supervisor to telecommute for one or two days.\n\nPlease have patience with these temporary inconveniences and do not hesitate to contact me with any questions or concerns.\n\nWORK SCHEDULE - March 2 to March 6\nMONDAY, March 2: Room 401 (Meeting room) | Room 403 (Allie Stevens & Matt Beale)\nTUESDAY, March 3: Room 402 (Marlene Asbury & Luke Roe) | Room 408 (Meeting room)\nWEDNESDAY, March 4: Room 405 (David Cho) | Room 406 (Meeting room)\nTHURSDAY, March 5: Room 407 (Jung Li) | Room 404 (Elliot Hagburg & Ana Keller)\nFRIDAY, March 6: Final inspections and cleanup",
+    "text": "What is stated about Room 409?",
+    "options": {
+      "A": "It will be available for videoconferencing.",
+      "B": "Employees may gather there for work.",
+      "C": "A scheduling meeting will be held there.",
+      "D": "Its furniture will be removed temporarily."
+    },
+    "correct": "B",
+    "hint": "Dẫn chứng: 'The conference room (Room 409) will remain available to be used as a workspace during the entire week' (Nhân viên có thể tập trung làm việc ở phòng 409)."
+  },
+  {
+    "num": 179,
+    "part": 7,
+    "passage_title": "Questions 176-180 refer to the following memo and schedule.",
+    "passage_text": "MEMO\nTo: Absalom and Twigg Law Firm employees\nFrom: Shawna Montgomery, Office Manager\nSubject: March plans\nSent: February 12\nAttachment: Schedule\n\nAs most of you are aware, our schedule will be a bit challenging during the first week in March. Various rooms and offices will need to be vacated for certain periods to allow work crews to repaint, recarpet, and replace old furniture. Affected employees will need to box up all their office items by 3 P.M. on the day before their room is scheduled for work (please see the attached schedule). Two teams of workers will be on-site, so more than one room at a time will need to be vacated. Note that any rooms due for work on Monday must be packed up and vacated by Friday afternoon, February 27.\n\nBoxes will be provided. Leave your boxes in the rooms for the work crews to remove. Please label them with your name and office number so that the crews can return them to the correct offices once the work is complete. Please make arrangements to continue working on your assignments while the work crews are in your rooms. The conference room (Room 409) will remain available to be used as a workspace during the entire week. Another possible option is to request permission from your supervisor to telecommute for one or two days.\n\nPlease have patience with these temporary inconveniences and do not hesitate to contact me with any questions or concerns.\n\nWORK SCHEDULE - March 2 to March 6\nMONDAY, March 2: Room 401 (Meeting room) | Room 403 (Allie Stevens & Matt Beale)\nTUESDAY, March 3: Room 402 (Marlene Asbury & Luke Roe) | Room 408 (Meeting room)\nWEDNESDAY, March 4: Room 405 (David Cho) | Room 406 (Meeting room)\nTHURSDAY, March 5: Room 407 (Jung Li) | Room 404 (Elliot Hagburg & Ana Keller)\nFRIDAY, March 6: Final inspections and cleanup",
+    "text": "When should Ms. Asbury be ready to vacate her office?",
+    "options": {
+      "A": "On February 12",
+      "B": "On February 27",
+      "C": "On March 3",
+      "D": "On March 4"
+    },
+    "correct": "C",
+    "hint": "Trong lịch làm việc: Marlene Asbury ở phòng 402, sửa vào thứ Tư ngày 4/3. Bản ghi nhớ yêu cầu: 'box up all their office items by 3 P.M. on the day before their room is scheduled for work' -> Phải dọn đồ trước 3h chiều ngày hôm trước là thứ Ba, ngày 3 tháng 3 (On March 3)."
+  },
+  {
+    "num": 180,
+    "part": 7,
+    "passage_title": "Questions 176-180 refer to the following memo and schedule.",
+    "passage_text": "MEMO\nTo: Absalom and Twigg Law Firm employees\nFrom: Shawna Montgomery, Office Manager\nSubject: March plans\nSent: February 12\nAttachment: Schedule\n\nAs most of you are aware, our schedule will be a bit challenging during the first week in March. Various rooms and offices will need to be vacated for certain periods to allow work crews to repaint, recarpet, and replace old furniture. Affected employees will need to box up all their office items by 3 P.M. on the day before their room is scheduled for work (please see the attached schedule). Two teams of workers will be on-site, so more than one room at a time will need to be vacated. Note that any rooms due for work on Monday must be packed up and vacated by Friday afternoon, February 27.\n\nBoxes will be provided. Leave your boxes in the rooms for the work crews to remove. Please label them with your name and office number so that the crews can return them to the correct offices once the work is complete. Please make arrangements to continue working on your assignments while the work crews are in your rooms. The conference room (Room 409) will remain available to be used as a workspace during the entire week. Another possible option is to request permission from your supervisor to telecommute for one or two days.\n\nPlease have patience with these temporary inconveniences and do not hesitate to contact me with any questions or concerns.\n\nWORK SCHEDULE - March 2 to March 6\nMONDAY, March 2: Room 401 (Meeting room) | Room 403 (Allie Stevens & Matt Beale)\nTUESDAY, March 3: Room 402 (Marlene Asbury & Luke Roe) | Room 408 (Meeting room)\nWEDNESDAY, March 4: Room 405 (David Cho) | Room 406 (Meeting room)\nTHURSDAY, March 5: Room 407 (Jung Li) | Room 404 (Elliot Hagburg & Ana Keller)\nFRIDAY, March 6: Final inspections and cleanup",
+    "text": "What is suggested about Mr. Hagburg?",
+    "options": {
+      "A": "He shares an office with a colleague.",
+      "B": "He will work off-site on March 5.",
+      "C": "He is the head of a department.",
+      "D": "He requested the renovation."
+    },
+    "correct": "A",
+    "hint": "Trong bảng lịch trình: 'Room 404 (Elliot Hagburg & Ana Keller)' -> Ông Hagburg dùng chung phòng làm việc với một đồng nghiệp khác (He shares an office with a colleague)."
+  },
+  {
+    "num": 181,
+    "part": 7,
+    "passage_title": "Questions 181-185 refer to the following flyer and form.",
+    "passage_text": "Livrou Farm\nFresh Organic Produce - From Our Farm to Your Home\n\nLivrou Farm in Bromont, Quebec, invites you to participate in its community-supported agriculture program. Members enjoy fresh farm produce during our growing season from June to November.\nSign up for a farm share and receive these benefits:\n• More than 30 varieties of in-season vegetables, fruits, and herbs, harvested by our farm staff and prepared for you to pick up at our barn\n• A selection of pick-your-own strawberries, apples, and other fruits\n• Access to our member Web site with recipes, farm updates, and a farm newsletter\n• Discounts on events at the farm, such as the annual summer music festival. Events typically cost $15, but members pay $10.\n\nMembers pick up their shares once a week at the farm. A full-size share is $700 per season, and a half-size share is $350. Half-size shareholders receive half the amount of produce each week. All other benefits remain the same.\nOur farm produce is grown without the use of pesticides or herbicides, and we use only naturally occurring fertilizers. For more information or to register for a membership, please see our Web site at www.livroufarm.ca.\n\nOnline Membership Form (www.livroufarm.ca):\nName: Julien Bernard\nAddress: 78 Dorion Street, Bromont, QC J2L 2K7\nFirst choice pick-up day: Thursday\nSecond choice pick-up day: Friday\nSize of share: Half (Selected)\nNOTE: Pick-up is between 3 P.M. and 6 P.M.\nOther individuals permitted to pick up share: Margaux Bernard, Laurent Bernard",
+    "text": "What is the purpose of the flyer?",
+    "options": {
+      "A": "To invite people to a farm festival",
+      "B": "To promote community service opportunities",
+      "C": "To share recipes for healthy eating",
+      "D": "To advertise a farm program"
+    },
+    "correct": "D",
+    "hint": "Tờ rơi quảng bá chương trình nông nghiệp hỗ trợ cộng đồng: 'invites you to participate in its community-supported agriculture program' -> Quảng cáo chương trình nông trại (To advertise a farm program)."
+  },
+  {
+    "num": 182,
+    "part": 7,
+    "passage_title": "Questions 181-185 refer to the following flyer and form.",
+    "passage_text": "Livrou Farm\nFresh Organic Produce - From Our Farm to Your Home\n\nLivrou Farm in Bromont, Quebec, invites you to participate in its community-supported agriculture program. Members enjoy fresh farm produce during our growing season from June to November.\nSign up for a farm share and receive these benefits:\n• More than 30 varieties of in-season vegetables, fruits, and herbs, harvested by our farm staff and prepared for you to pick up at our barn\n• A selection of pick-your-own strawberries, apples, and other fruits\n• Access to our member Web site with recipes, farm updates, and a farm newsletter\n• Discounts on events at the farm, such as the annual summer music festival. Events typically cost $15, but members pay $10.\n\nMembers pick up their shares once a week at the farm. A full-size share is $700 per season, and a half-size share is $350. Half-size shareholders receive half the amount of produce each week. All other benefits remain the same.\nOur farm produce is grown without the use of pesticides or herbicides, and we use only naturally occurring fertilizers. For more information or to register for a membership, please see our Web site at www.livroufarm.ca.\n\nOnline Membership Form (www.livroufarm.ca):\nName: Julien Bernard\nAddress: 78 Dorion Street, Bromont, QC J2L 2K7\nFirst choice pick-up day: Thursday\nSecond choice pick-up day: Friday\nSize of share: Half (Selected)\nNOTE: Pick-up is between 3 P.M. and 6 P.M.\nOther individuals permitted to pick up share: Margaux Bernard, Laurent Bernard",
+    "text": "What is suggested about the workers at Livrou Farm?",
+    "options": {
+      "A": "They collect farm produce from June to November.",
+      "B": "They update the farm's Web site once a week.",
+      "C": "They create meals using the farm's products.",
+      "D": "They sell farm products at several local markets."
+    },
+    "correct": "A",
+    "hint": "Dẫn chứng: 'growing season from June to November... harvested by our farm staff' -> Nhân viên thu hoạch nông sản từ tháng 6 đến tháng 11."
+  },
+  {
+    "num": 183,
+    "part": 7,
+    "passage_title": "Questions 181-185 refer to the following flyer and form.",
+    "passage_text": "Livrou Farm\nFresh Organic Produce - From Our Farm to Your Home\n\nLivrou Farm in Bromont, Quebec, invites you to participate in its community-supported agriculture program. Members enjoy fresh farm produce during our growing season from June to November.\nSign up for a farm share and receive these benefits:\n• More than 30 varieties of in-season vegetables, fruits, and herbs, harvested by our farm staff and prepared for you to pick up at our barn\n• A selection of pick-your-own strawberries, apples, and other fruits\n• Access to our member Web site with recipes, farm updates, and a farm newsletter\n• Discounts on events at the farm, such as the annual summer music festival. Events typically cost $15, but members pay $10.\n\nMembers pick up their shares once a week at the farm. A full-size share is $700 per season, and a half-size share is $350. Half-size shareholders receive half the amount of produce each week. All other benefits remain the same.\nOur farm produce is grown without the use of pesticides or herbicides, and we use only naturally occurring fertilizers. For more information or to register for a membership, please see our Web site at www.livroufarm.ca.\n\nOnline Membership Form (www.livroufarm.ca):\nName: Julien Bernard\nAddress: 78 Dorion Street, Bromont, QC J2L 2K7\nFirst choice pick-up day: Thursday\nSecond choice pick-up day: Friday\nSize of share: Half (Selected)\nNOTE: Pick-up is between 3 P.M. and 6 P.M.\nOther individuals permitted to pick up share: Margaux Bernard, Laurent Bernard",
+    "text": "What is NOT indicated about Livrou Farm?",
+    "options": {
+      "A": "It publishes a newsletter.",
+      "B": "It uses natural fertilizers.",
+      "C": "It hosts musical performances.",
+      "D": "It offers cooking classes."
+    },
+    "correct": "D",
+    "hint": "Nông trại có bản tin (A), dùng phân bón tự nhiên (B), tổ chức lễ hội âm nhạc (C). Lớp dạy nấu ăn (cooking classes) không được nhắc đến (chỉ có chia sẻ công thức nấu ăn trên website)."
+  },
+  {
+    "num": 184,
+    "part": 7,
+    "passage_title": "Questions 181-185 refer to the following flyer and form.",
+    "passage_text": "Livrou Farm\nFresh Organic Produce - From Our Farm to Your Home\n\nLivrou Farm in Bromont, Quebec, invites you to participate in its community-supported agriculture program. Members enjoy fresh farm produce during our growing season from June to November.\nSign up for a farm share and receive these benefits:\n• More than 30 varieties of in-season vegetables, fruits, and herbs, harvested by our farm staff and prepared for you to pick up at our barn\n• A selection of pick-your-own strawberries, apples, and other fruits\n• Access to our member Web site with recipes, farm updates, and a farm newsletter\n• Discounts on events at the farm, such as the annual summer music festival. Events typically cost $15, but members pay $10.\n\nMembers pick up their shares once a week at the farm. A full-size share is $700 per season, and a half-size share is $350. Half-size shareholders receive half the amount of produce each week. All other benefits remain the same.\nOur farm produce is grown without the use of pesticides or herbicides, and we use only naturally occurring fertilizers. For more information or to register for a membership, please see our Web site at www.livroufarm.ca.\n\nOnline Membership Form (www.livroufarm.ca):\nName: Julien Bernard\nAddress: 78 Dorion Street, Bromont, QC J2L 2K7\nFirst choice pick-up day: Thursday\nSecond choice pick-up day: Friday\nSize of share: Half (Selected)\nNOTE: Pick-up is between 3 P.M. and 6 P.M.\nOther individuals permitted to pick up share: Margaux Bernard, Laurent Bernard",
+    "text": "What is true about Mr. Bernard's membership?",
+    "options": {
+      "A": "He must pick up his produce on Sundays.",
+      "B": "He is the only person allowed to pick up his farm share.",
+      "C": "He will be allowed to pick some of his own fruit.",
+      "D": "He will be able to plant and grow his own vegetables."
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng trong mục quyền lợi thành viên: 'A selection of pick-your-own strawberries, apples, and other fruits' -> Được tự hái trái cây."
+  },
+  {
+    "num": 185,
+    "part": 7,
+    "passage_title": "Questions 181-185 refer to the following flyer and form.",
+    "passage_text": "Livrou Farm\nFresh Organic Produce - From Our Farm to Your Home\n\nLivrou Farm in Bromont, Quebec, invites you to participate in its community-supported agriculture program. Members enjoy fresh farm produce during our growing season from June to November.\nSign up for a farm share and receive these benefits:\n• More than 30 varieties of in-season vegetables, fruits, and herbs, harvested by our farm staff and prepared for you to pick up at our barn\n• A selection of pick-your-own strawberries, apples, and other fruits\n• Access to our member Web site with recipes, farm updates, and a farm newsletter\n• Discounts on events at the farm, such as the annual summer music festival. Events typically cost $15, but members pay $10.\n\nMembers pick up their shares once a week at the farm. A full-size share is $700 per season, and a half-size share is $350. Half-size shareholders receive half the amount of produce each week. All other benefits remain the same.\nOur farm produce is grown without the use of pesticides or herbicides, and we use only naturally occurring fertilizers. For more information or to register for a membership, please see our Web site at www.livroufarm.ca.\n\nOnline Membership Form (www.livroufarm.ca):\nName: Julien Bernard\nAddress: 78 Dorion Street, Bromont, QC J2L 2K7\nFirst choice pick-up day: Thursday\nSecond choice pick-up day: Friday\nSize of share: Half (Selected)\nNOTE: Pick-up is between 3 P.M. and 6 P.M.\nOther individuals permitted to pick up share: Margaux Bernard, Laurent Bernard",
+    "text": "How much should Mr. Bernard pay for the membership?",
+    "options": {
+      "A": "$10",
+      "B": "$15",
+      "C": "$350",
+      "D": "$700"
+    },
+    "correct": "C",
+    "hint": "Trong đơn đăng ký, ông Bernard tích chọn 'Size of share: Half'. Tờ rơi ghi rõ: 'a half-size share is $350' -> Giá tiền là $350."
+  },
+  {
+    "num": 186,
+    "part": 7,
+    "passage_title": "Questions 186-190 refer to the following advertisements and e-mail.",
+    "passage_text": "Advertisement 1 (http://www.communitylinkforum.org/burlingtonvermont):\nProfessional Seeking Apartment in Burlington\nJorge Janssen <jjanssen@blitzer.com>\nDate: June 23\nI accepted a new position in Burlington and need to relocate near the downtown area before my start date on August 15. I'm seeking a simple, clean, one-bedroom rental or larger, depending on price. A relaxing location with outdoor seating for entertaining friends or family would be a plus. I do have a car, but I'd appreciate having good access to public transportation. I have a budget of around $1,400 monthly to cover all housing costs, including utilities.\n\nAdvertisement 2 (http://www.communitylinkforum.org/burlingtonvermont):\nApartment for Rent in Burlington\nEloise McMahon <mcmahonrental@hmail.com>\nDate: June 23\nBe the first to rent this two-bedroom apartment upon completion of extensive renovations. This property is anticipated to be move-in ready on August 1. It will feature a clean modern look, new floors throughout, and all-new appliances. The apartment is situated downtown, and students are welcome as it's less than ten minutes by bus to Denton University. On-street parking is available with a decal from the City Transportation Office. Cats or small dogs are potentially permitted, but with conditions, so please inquire. $1,400 rent also pays for water, sewer, garbage pickups, and general upkeep of the property. Electricity and natural gas will be the responsibility of the tenant. A one-time security deposit equal to one month's rent should be paid upon signing the rental agreement.\n\nE-mail:\nTo: Eloise McMahon <mcmahonrental@hmail.com>\nFrom: Jorge Janssen <jjanssen@blitzer.com>\nSubject: Apartment\nDate: June 24\nDear Ms. McMahon,\nI noticed your rental listing on communitylinkforum.org. From the description it sounds as if it may be just what I've been looking for. I'm eager to look over the apartment, and I just happen to be in Burlington all this week. My last day in town will be Sunday, June 30. If the place suits me, I'd want to move in the same day that it's expected to be available. The timing would be perfect! I hope to hear from you soon.\nThank you,\nJorge Janssen, (802) 555-0122",
+    "text": "Why is Mr. Janssen relocating?",
+    "options": {
+      "A": "To begin a new job",
+      "B": "To return to his hometown",
+      "C": "To study part-time",
+      "D": "To start his retirement"
+    },
+    "correct": "A",
+    "hint": "Jorge viết: 'I accepted a new position in Burlington and need to relocate' -> Nhận công việc mới (To begin a new job)."
+  },
+  {
+    "num": 187,
+    "part": 7,
+    "passage_title": "Questions 186-190 refer to the following advertisements and e-mail.",
+    "passage_text": "Advertisement 1 (http://www.communitylinkforum.org/burlingtonvermont):\nProfessional Seeking Apartment in Burlington\nJorge Janssen <jjanssen@blitzer.com>\nDate: June 23\nI accepted a new position in Burlington and need to relocate near the downtown area before my start date on August 15. I'm seeking a simple, clean, one-bedroom rental or larger, depending on price. A relaxing location with outdoor seating for entertaining friends or family would be a plus. I do have a car, but I'd appreciate having good access to public transportation. I have a budget of around $1,400 monthly to cover all housing costs, including utilities.\n\nAdvertisement 2 (http://www.communitylinkforum.org/burlingtonvermont):\nApartment for Rent in Burlington\nEloise McMahon <mcmahonrental@hmail.com>\nDate: June 23\nBe the first to rent this two-bedroom apartment upon completion of extensive renovations. This property is anticipated to be move-in ready on August 1. It will feature a clean modern look, new floors throughout, and all-new appliances. The apartment is situated downtown, and students are welcome as it's less than ten minutes by bus to Denton University. On-street parking is available with a decal from the City Transportation Office. Cats or small dogs are potentially permitted, but with conditions, so please inquire. $1,400 rent also pays for water, sewer, garbage pickups, and general upkeep of the property. Electricity and natural gas will be the responsibility of the tenant. A one-time security deposit equal to one month's rent should be paid upon signing the rental agreement.\n\nE-mail:\nTo: Eloise McMahon <mcmahonrental@hmail.com>\nFrom: Jorge Janssen <jjanssen@blitzer.com>\nSubject: Apartment\nDate: June 24\nDear Ms. McMahon,\nI noticed your rental listing on communitylinkforum.org. From the description it sounds as if it may be just what I've been looking for. I'm eager to look over the apartment, and I just happen to be in Burlington all this week. My last day in town will be Sunday, June 30. If the place suits me, I'd want to move in the same day that it's expected to be available. The timing would be perfect! I hope to hear from you soon.\nThank you,\nJorge Janssen, (802) 555-0122",
+    "text": "What aspect of the property does NOT match Mr. Janssen's preferences?",
+    "options": {
+      "A": "The location",
+      "B": "The monthly costs",
+      "C": "The parking availability",
+      "D": "The size"
+    },
+    "correct": "B",
+    "hint": "Jorge có ngân sách '$1,400 monthly to cover ALL housing costs, including utilities'. Nhà cô McMahon giá thuê $1,400 nhưng 'Electricity and natural gas will be the responsibility of the tenant' -> Chi phí hàng tháng vượt ngân sách của anh ấy (The monthly costs)."
+  },
+  {
+    "num": 188,
+    "part": 7,
+    "passage_title": "Questions 186-190 refer to the following advertisements and e-mail.",
+    "passage_text": "Advertisement 1 (http://www.communitylinkforum.org/burlingtonvermont):\nProfessional Seeking Apartment in Burlington\nJorge Janssen <jjanssen@blitzer.com>\nDate: June 23\nI accepted a new position in Burlington and need to relocate near the downtown area before my start date on August 15. I'm seeking a simple, clean, one-bedroom rental or larger, depending on price. A relaxing location with outdoor seating for entertaining friends or family would be a plus. I do have a car, but I'd appreciate having good access to public transportation. I have a budget of around $1,400 monthly to cover all housing costs, including utilities.\n\nAdvertisement 2 (http://www.communitylinkforum.org/burlingtonvermont):\nApartment for Rent in Burlington\nEloise McMahon <mcmahonrental@hmail.com>\nDate: June 23\nBe the first to rent this two-bedroom apartment upon completion of extensive renovations. This property is anticipated to be move-in ready on August 1. It will feature a clean modern look, new floors throughout, and all-new appliances. The apartment is situated downtown, and students are welcome as it's less than ten minutes by bus to Denton University. On-street parking is available with a decal from the City Transportation Office. Cats or small dogs are potentially permitted, but with conditions, so please inquire. $1,400 rent also pays for water, sewer, garbage pickups, and general upkeep of the property. Electricity and natural gas will be the responsibility of the tenant. A one-time security deposit equal to one month's rent should be paid upon signing the rental agreement.\n\nE-mail:\nTo: Eloise McMahon <mcmahonrental@hmail.com>\nFrom: Jorge Janssen <jjanssen@blitzer.com>\nSubject: Apartment\nDate: June 24\nDear Ms. McMahon,\nI noticed your rental listing on communitylinkforum.org. From the description it sounds as if it may be just what I've been looking for. I'm eager to look over the apartment, and I just happen to be in Burlington all this week. My last day in town will be Sunday, June 30. If the place suits me, I'd want to move in the same day that it's expected to be available. The timing would be perfect! I hope to hear from you soon.\nThank you,\nJorge Janssen, (802) 555-0122",
+    "text": "For what situation does Ms. McMahon mention that she will need additional information?",
+    "options": {
+      "A": "When changes to the decor are preferred",
+      "B": "When a tenant is ready to pay a security deposit",
+      "C": "When repairs to the apartment are needed",
+      "D": "When someone wants to keep an indoor pet"
+    },
+    "correct": "D",
+    "hint": "Cô McMahon viết: 'Cats or small dogs are potentially permitted, but with conditions, so please inquire' -> Khi người thuê muốn nuôi thú cưng trong nhà (When someone wants to keep an indoor pet)."
+  },
+  {
+    "num": 189,
+    "part": 7,
+    "passage_title": "Questions 186-190 refer to the following advertisements and e-mail.",
+    "passage_text": "Advertisement 1 (http://www.communitylinkforum.org/burlingtonvermont):\nProfessional Seeking Apartment in Burlington\nJorge Janssen <jjanssen@blitzer.com>\nDate: June 23\nI accepted a new position in Burlington and need to relocate near the downtown area before my start date on August 15. I'm seeking a simple, clean, one-bedroom rental or larger, depending on price. A relaxing location with outdoor seating for entertaining friends or family would be a plus. I do have a car, but I'd appreciate having good access to public transportation. I have a budget of around $1,400 monthly to cover all housing costs, including utilities.\n\nAdvertisement 2 (http://www.communitylinkforum.org/burlingtonvermont):\nApartment for Rent in Burlington\nEloise McMahon <mcmahonrental@hmail.com>\nDate: June 23\nBe the first to rent this two-bedroom apartment upon completion of extensive renovations. This property is anticipated to be move-in ready on August 1. It will feature a clean modern look, new floors throughout, and all-new appliances. The apartment is situated downtown, and students are welcome as it's less than ten minutes by bus to Denton University. On-street parking is available with a decal from the City Transportation Office. Cats or small dogs are potentially permitted, but with conditions, so please inquire. $1,400 rent also pays for water, sewer, garbage pickups, and general upkeep of the property. Electricity and natural gas will be the responsibility of the tenant. A one-time security deposit equal to one month's rent should be paid upon signing the rental agreement.\n\nE-mail:\nTo: Eloise McMahon <mcmahonrental@hmail.com>\nFrom: Jorge Janssen <jjanssen@blitzer.com>\nSubject: Apartment\nDate: June 24\nDear Ms. McMahon,\nI noticed your rental listing on communitylinkforum.org. From the description it sounds as if it may be just what I've been looking for. I'm eager to look over the apartment, and I just happen to be in Burlington all this week. My last day in town will be Sunday, June 30. If the place suits me, I'd want to move in the same day that it's expected to be available. The timing would be perfect! I hope to hear from you soon.\nThank you,\nJorge Janssen, (802) 555-0122",
+    "text": "Why does Mr. Janssen send the e-mail?",
+    "options": {
+      "A": "To agree to the terms of a rental contract",
+      "B": "To change the details of a residential advertisement",
+      "C": "To ask about a feature of an apartment",
+      "D": "To make arrangements to view a property"
+    },
+    "correct": "D",
+    "hint": "Jorge viết: 'I'm eager to look over the apartment, and I just happen to be in Burlington all this week... My last day in town will be Sunday, June 30' -> Hẹn lịch xem căn hộ (To make arrangements to view a property)."
+  },
+  {
+    "num": 190,
+    "part": 7,
+    "passage_title": "Questions 186-190 refer to the following advertisements and e-mail.",
+    "passage_text": "Advertisement 1 (http://www.communitylinkforum.org/burlingtonvermont):\nProfessional Seeking Apartment in Burlington\nJorge Janssen <jjanssen@blitzer.com>\nDate: June 23\nI accepted a new position in Burlington and need to relocate near the downtown area before my start date on August 15. I'm seeking a simple, clean, one-bedroom rental or larger, depending on price. A relaxing location with outdoor seating for entertaining friends or family would be a plus. I do have a car, but I'd appreciate having good access to public transportation. I have a budget of around $1,400 monthly to cover all housing costs, including utilities.\n\nAdvertisement 2 (http://www.communitylinkforum.org/burlingtonvermont):\nApartment for Rent in Burlington\nEloise McMahon <mcmahonrental@hmail.com>\nDate: June 23\nBe the first to rent this two-bedroom apartment upon completion of extensive renovations. This property is anticipated to be move-in ready on August 1. It will feature a clean modern look, new floors throughout, and all-new appliances. The apartment is situated downtown, and students are welcome as it's less than ten minutes by bus to Denton University. On-street parking is available with a decal from the City Transportation Office. Cats or small dogs are potentially permitted, but with conditions, so please inquire. $1,400 rent also pays for water, sewer, garbage pickups, and general upkeep of the property. Electricity and natural gas will be the responsibility of the tenant. A one-time security deposit equal to one month's rent should be paid upon signing the rental agreement.\n\nE-mail:\nTo: Eloise McMahon <mcmahonrental@hmail.com>\nFrom: Jorge Janssen <jjanssen@blitzer.com>\nSubject: Apartment\nDate: June 24\nDear Ms. McMahon,\nI noticed your rental listing on communitylinkforum.org. From the description it sounds as if it may be just what I've been looking for. I'm eager to look over the apartment, and I just happen to be in Burlington all this week. My last day in town will be Sunday, June 30. If the place suits me, I'd want to move in the same day that it's expected to be available. The timing would be perfect! I hope to hear from you soon.\nThank you,\nJorge Janssen, (802) 555-0122",
+    "text": "When does Mr. Janssen wish to start living in the residence?",
+    "options": {
+      "A": "On June 24",
+      "B": "On June 30",
+      "C": "On August 1",
+      "D": "On August 15"
+    },
+    "correct": "C",
+    "hint": "Jorge viết: 'I'd want to move in the same day that it's expected to be available'. Trong bài đăng của cô McMahon: 'anticipated to be move-in ready on August 1' -> Ngày bắt đầu dọn vào sống là ngày 1 tháng 8 (On August 1)."
+  },
+  {
+    "num": 191,
+    "part": 7,
+    "passage_title": "Questions 191-195 refer to the following product description, customer review, and online response.",
+    "passage_text": "Product Description:\nKitchenware Utopia Food Processor - Model C3\nYou will never need to buy another food processor! Our best-selling model, the C3, is made of high-quality plastic and easy-to-clean stainless steel.\nFEATURES: The unique blade design and powerful motor make this a professional-grade appliance, ideal for busy restaurants of any size.\nWARRANTY: We include a seven-year warranty on all parts and labor - a reassurance to you that our food processor will last a long time.\nSpecial purchase price: $319.00 / KU Club Members: $299.00\n\nCustomer Review (www.kitchenwareutopia.com/C3/reviews/454):\nRating: 5 stars\nReview: This product is amazing! I work as a caterer, and I've used a lot of different food processors. Kitchenware Utopia's C3 is by far the best I've found. Its motor is very powerful, and the many different blades and settings make it extremely versatile. The settings are also straightforward. It's expensive but well worth the investment, and since I'm a loyalty club member, the price was reasonable. My only complaint would be that it's very heavy and therefore not as portable as I'd hoped. Overall, though, I'm exceptionally satisfied with this product.\nPosted by Eli Perles on March 27\n\nOnline Response:\nWe are very glad to hear you are happy with our C3 food processor. Customer satisfaction is our number one priority. We would like to respond to your complaint and provide a suggestion regarding your concerns. Our C2 processor might be better suited to your professional needs. The C2 offers the same motor size as the C3, but it is much smaller than the C3 in general. However, this model does cost slightly more than the C3. You can view the product description by visiting www.kitchenwareutopia.com/C2.\nPosted by Kitchenware Utopia Customer Service on March 28",
+    "text": "What is NOT mentioned in the product description as a feature of the C3 food processor?",
+    "options": {
+      "A": "It is very durable.",
+      "B": "It is suitable for commercial kitchens.",
+      "C": "It is larger than competitors' food processors.",
+      "D": "It is a popular model."
+    },
+    "correct": "C",
+    "hint": "A (bảo hành 7 năm bền bỉ), B (lý tưởng cho nhà hàng), D (mẫu bán chạy nhất - best-selling). Đặc điểm to hơn của đối thủ cạnh tranh (C) không hề được nhắc đến."
+  },
+  {
+    "num": 192,
+    "part": 7,
+    "passage_title": "Questions 191-195 refer to the following product description, customer review, and online response.",
+    "passage_text": "Product Description:\nKitchenware Utopia Food Processor - Model C3\nYou will never need to buy another food processor! Our best-selling model, the C3, is made of high-quality plastic and easy-to-clean stainless steel.\nFEATURES: The unique blade design and powerful motor make this a professional-grade appliance, ideal for busy restaurants of any size.\nWARRANTY: We include a seven-year warranty on all parts and labor - a reassurance to you that our food processor will last a long time.\nSpecial purchase price: $319.00 / KU Club Members: $299.00\n\nCustomer Review (www.kitchenwareutopia.com/C3/reviews/454):\nRating: 5 stars\nReview: This product is amazing! I work as a caterer, and I've used a lot of different food processors. Kitchenware Utopia's C3 is by far the best I've found. Its motor is very powerful, and the many different blades and settings make it extremely versatile. The settings are also straightforward. It's expensive but well worth the investment, and since I'm a loyalty club member, the price was reasonable. My only complaint would be that it's very heavy and therefore not as portable as I'd hoped. Overall, though, I'm exceptionally satisfied with this product.\nPosted by Eli Perles on March 27\n\nOnline Response:\nWe are very glad to hear you are happy with our C3 food processor. Customer satisfaction is our number one priority. We would like to respond to your complaint and provide a suggestion regarding your concerns. Our C2 processor might be better suited to your professional needs. The C2 offers the same motor size as the C3, but it is much smaller than the C3 in general. However, this model does cost slightly more than the C3. You can view the product description by visiting www.kitchenwareutopia.com/C2.\nPosted by Kitchenware Utopia Customer Service on March 28",
+    "text": "What is indicated in the customer review?",
+    "options": {
+      "A": "The C3 comes with detailed instructions.",
+      "B": "Mr. Perles is pleased with his purchase.",
+      "C": "Kitchenware Utopia's customer service is very good.",
+      "D": "Users find the C3 difficult to clean."
+    },
+    "correct": "B",
+    "hint": "Đánh giá 5 sao: 'This product is amazing... exceptionally satisfied with this product' -> Ông Perles rất hài lòng với sản phẩm đã mua (Mr. Perles is pleased with his purchase)."
+  },
+  {
+    "num": 193,
+    "part": 7,
+    "passage_title": "Questions 191-195 refer to the following product description, customer review, and online response.",
+    "passage_text": "Product Description:\nKitchenware Utopia Food Processor - Model C3\nYou will never need to buy another food processor! Our best-selling model, the C3, is made of high-quality plastic and easy-to-clean stainless steel.\nFEATURES: The unique blade design and powerful motor make this a professional-grade appliance, ideal for busy restaurants of any size.\nWARRANTY: We include a seven-year warranty on all parts and labor - a reassurance to you that our food processor will last a long time.\nSpecial purchase price: $319.00 / KU Club Members: $299.00\n\nCustomer Review (www.kitchenwareutopia.com/C3/reviews/454):\nRating: 5 stars\nReview: This product is amazing! I work as a caterer, and I've used a lot of different food processors. Kitchenware Utopia's C3 is by far the best I've found. Its motor is very powerful, and the many different blades and settings make it extremely versatile. The settings are also straightforward. It's expensive but well worth the investment, and since I'm a loyalty club member, the price was reasonable. My only complaint would be that it's very heavy and therefore not as portable as I'd hoped. Overall, though, I'm exceptionally satisfied with this product.\nPosted by Eli Perles on March 27\n\nOnline Response:\nWe are very glad to hear you are happy with our C3 food processor. Customer satisfaction is our number one priority. We would like to respond to your complaint and provide a suggestion regarding your concerns. Our C2 processor might be better suited to your professional needs. The C2 offers the same motor size as the C3, but it is much smaller than the C3 in general. However, this model does cost slightly more than the C3. You can view the product description by visiting www.kitchenwareutopia.com/C2.\nPosted by Kitchenware Utopia Customer Service on March 28",
+    "text": "What is suggested about Mr. Perles?",
+    "options": {
+      "A": "He paid $299 for the food processor.",
+      "B": "He purchased some optional parts for the processor.",
+      "C": "He catered a large-scale event on March 27.",
+      "D": "He has never used a food processor before."
+    },
+    "correct": "A",
+    "hint": "Ông viết: 'since I'm a loyalty club member, the price was reasonable'. Bảng giá nêu: 'KU Club Members: $299.00' -> Ông đã mua với giá $299."
+  },
+  {
+    "num": 194,
+    "part": 7,
+    "passage_title": "Questions 191-195 refer to the following product description, customer review, and online response.",
+    "passage_text": "Product Description:\nKitchenware Utopia Food Processor - Model C3\nYou will never need to buy another food processor! Our best-selling model, the C3, is made of high-quality plastic and easy-to-clean stainless steel.\nFEATURES: The unique blade design and powerful motor make this a professional-grade appliance, ideal for busy restaurants of any size.\nWARRANTY: We include a seven-year warranty on all parts and labor - a reassurance to you that our food processor will last a long time.\nSpecial purchase price: $319.00 / KU Club Members: $299.00\n\nCustomer Review (www.kitchenwareutopia.com/C3/reviews/454):\nRating: 5 stars\nReview: This product is amazing! I work as a caterer, and I've used a lot of different food processors. Kitchenware Utopia's C3 is by far the best I've found. Its motor is very powerful, and the many different blades and settings make it extremely versatile. The settings are also straightforward. It's expensive but well worth the investment, and since I'm a loyalty club member, the price was reasonable. My only complaint would be that it's very heavy and therefore not as portable as I'd hoped. Overall, though, I'm exceptionally satisfied with this product.\nPosted by Eli Perles on March 27\n\nOnline Response:\nWe are very glad to hear you are happy with our C3 food processor. Customer satisfaction is our number one priority. We would like to respond to your complaint and provide a suggestion regarding your concerns. Our C2 processor might be better suited to your professional needs. The C2 offers the same motor size as the C3, but it is much smaller than the C3 in general. However, this model does cost slightly more than the C3. You can view the product description by visiting www.kitchenwareutopia.com/C2.\nPosted by Kitchenware Utopia Customer Service on March 28",
+    "text": "Why would the C2 processor likely be recommended as more suitable for Mr. Perles?",
+    "options": {
+      "A": "It is inexpensive.",
+      "B": "It is dishwasher safe.",
+      "C": "It is easy to assemble.",
+      "D": "It is lightweight."
+    },
+    "correct": "D",
+    "hint": "Ông Perles phàn nàn máy C3 rất nặng ('very heavy and therefore not as portable'). Hãng tư vấn dòng C2 nhỏ gọn hơn nhiều ('much smaller than the C3 in general') nên nhẹ hơn (lightweight)."
+  },
+  {
+    "num": 195,
+    "part": 7,
+    "passage_title": "Questions 191-195 refer to the following product description, customer review, and online response.",
+    "passage_text": "Product Description:\nKitchenware Utopia Food Processor - Model C3\nYou will never need to buy another food processor! Our best-selling model, the C3, is made of high-quality plastic and easy-to-clean stainless steel.\nFEATURES: The unique blade design and powerful motor make this a professional-grade appliance, ideal for busy restaurants of any size.\nWARRANTY: We include a seven-year warranty on all parts and labor - a reassurance to you that our food processor will last a long time.\nSpecial purchase price: $319.00 / KU Club Members: $299.00\n\nCustomer Review (www.kitchenwareutopia.com/C3/reviews/454):\nRating: 5 stars\nReview: This product is amazing! I work as a caterer, and I've used a lot of different food processors. Kitchenware Utopia's C3 is by far the best I've found. Its motor is very powerful, and the many different blades and settings make it extremely versatile. The settings are also straightforward. It's expensive but well worth the investment, and since I'm a loyalty club member, the price was reasonable. My only complaint would be that it's very heavy and therefore not as portable as I'd hoped. Overall, though, I'm exceptionally satisfied with this product.\nPosted by Eli Perles on March 27\n\nOnline Response:\nWe are very glad to hear you are happy with our C3 food processor. Customer satisfaction is our number one priority. We would like to respond to your complaint and provide a suggestion regarding your concerns. Our C2 processor might be better suited to your professional needs. The C2 offers the same motor size as the C3, but it is much smaller than the C3 in general. However, this model does cost slightly more than the C3. You can view the product description by visiting www.kitchenwareutopia.com/C2.\nPosted by Kitchenware Utopia Customer Service on March 28",
+    "text": "In the online response, the word \"regarding\" in paragraph 1, line 3, is closest in meaning to",
+    "options": {
+      "A": "looking after",
+      "B": "about",
+      "C": "in comparison",
+      "D": "admiring"
+    },
+    "correct": "B",
+    "hint": "'provide a suggestion regarding your concerns' = đưa ra đề xuất liên quan tới / về những băn khoăn của bạn ('regarding' đồng nghĩa với 'about')."
+  },
+  {
+    "num": 196,
+    "part": 7,
+    "passage_title": "Questions 196-200 refer to the following article, schedule, and news update.",
+    "passage_text": "Article:\nMent Hall to Host Piasek Cup Final\nMent Hall, which is currently undergoing extensive renovation, will be ready to host the final game of the Piasek Cup Volleyball Championship to be held in Warsaw this June. Although the project has been in the works for some time, it was the opportunity to host this championship that provided the economic incentive to push the project to its completion. City officials have confirmed that the construction is progressing according to schedule and will be complete well before the finals of the championship.\n\nSince Ment Hall is the only major arena in the country that has never hosted a Piasek Cup event, the hall's owners were proud to have been chosen to host this year's finale. The final game will inaugurate the refurbished hall. The event is expected to draw thousands of volleyball fans, and the organizers are confident that Ment Hall will live up to the occasion. Seating 19,000 spectators, Ment Hall will be double its previous size.\n\nTournament Schedule (Piasek Cup Volleyball Championship):\nQuarterfinal Games:\n• Venezuela vs Australia: 10 June, 3:00 P.M. at Loave Arena, Bydgoszcz\n• Poland vs France: 10 June, 6:00 P.M. at Timpani Hall, Katowice\n• Brazil vs USA: 11 June, 3:00 P.M. at Polana Center, Cracow\n• Cuba vs Egypt: 11 June, 6:00 P.M. at Mistrz Arena, Wroclaw\n\nSemifinal Games:\n• Winners of 10 June games: 13 June, 3:00 P.M. at Timpani Hall, Katowice\n• Winners of 11 June games: 13 June, 3:00 P.M. at Polana Center, Cracow\n\nFinal Game:\n• 16 June, 6:00 P.M. at Ment Hall, Warsaw\n\nNOTE: Tickets for the final game are selling fast, so don't wait until after the semifinal games to order. Reserved seating only, no general admission. No refunds.\n\nNews Update (HALLAX RADIO 108.3 FM, Sports - Volleyball, 10 June):\nAt 3:00 P.M., Venezuela will take on Australia for qualification to the semifinals. Our guest announcer will be Vin Cote, retired coach of last year's winning team from Canada. At 6:00 P.M., host team Poland will face off against France. The game will be covered live by Jeremy Bosko.",
+    "text": "In the article, the word \"draw\" in paragraph 2, line 7, is closest in meaning to",
+    "options": {
+      "A": "promote",
+      "B": "attract",
+      "C": "sketch",
+      "D": "remove"
+    },
+    "correct": "B",
+    "hint": "Cụm 'draw thousands of volleyball fans' mang nghĩa thu hút hàng ngàn người hâm mộ bóng chuyền ('draw' đồng nghĩa với 'attract')."
+  },
+  {
+    "num": 197,
+    "part": 7,
+    "passage_title": "Questions 196-200 refer to the following article, schedule, and news update.",
+    "passage_text": "Article:\nMent Hall to Host Piasek Cup Final\nMent Hall, which is currently undergoing extensive renovation, will be ready to host the final game of the Piasek Cup Volleyball Championship to be held in Warsaw this June. Although the project has been in the works for some time, it was the opportunity to host this championship that provided the economic incentive to push the project to its completion. City officials have confirmed that the construction is progressing according to schedule and will be complete well before the finals of the championship.\n\nSince Ment Hall is the only major arena in the country that has never hosted a Piasek Cup event, the hall's owners were proud to have been chosen to host this year's finale. The final game will inaugurate the refurbished hall. The event is expected to draw thousands of volleyball fans, and the organizers are confident that Ment Hall will live up to the occasion. Seating 19,000 spectators, Ment Hall will be double its previous size.\n\nTournament Schedule (Piasek Cup Volleyball Championship):\nQuarterfinal Games:\n• Venezuela vs Australia: 10 June, 3:00 P.M. at Loave Arena, Bydgoszcz\n• Poland vs France: 10 June, 6:00 P.M. at Timpani Hall, Katowice\n• Brazil vs USA: 11 June, 3:00 P.M. at Polana Center, Cracow\n• Cuba vs Egypt: 11 June, 6:00 P.M. at Mistrz Arena, Wroclaw\n\nSemifinal Games:\n• Winners of 10 June games: 13 June, 3:00 P.M. at Timpani Hall, Katowice\n• Winners of 11 June games: 13 June, 3:00 P.M. at Polana Center, Cracow\n\nFinal Game:\n• 16 June, 6:00 P.M. at Ment Hall, Warsaw\n\nNOTE: Tickets for the final game are selling fast, so don't wait until after the semifinal games to order. Reserved seating only, no general admission. No refunds.\n\nNews Update (HALLAX RADIO 108.3 FM, Sports - Volleyball, 10 June):\nAt 3:00 P.M., Venezuela will take on Australia for qualification to the semifinals. Our guest announcer will be Vin Cote, retired coach of last year's winning team from Canada. At 6:00 P.M., host team Poland will face off against France. The game will be covered live by Jeremy Bosko.",
+    "text": "What will be changed about Ment Hall?",
+    "options": {
+      "A": "Its ownership",
+      "B": "Its ticket prices",
+      "C": "Its seating capacity",
+      "D": "Its location"
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng: 'Seating 19,000 spectators, Ment Hall will be double its previous size' -> Sức chứa chỗ ngồi tăng gấp đôi (Its seating capacity)."
+  },
+  {
+    "num": 198,
+    "part": 7,
+    "passage_title": "Questions 196-200 refer to the following article, schedule, and news update.",
+    "passage_text": "Article:\nMent Hall to Host Piasek Cup Final\nMent Hall, which is currently undergoing extensive renovation, will be ready to host the final game of the Piasek Cup Volleyball Championship to be held in Warsaw this June. Although the project has been in the works for some time, it was the opportunity to host this championship that provided the economic incentive to push the project to its completion. City officials have confirmed that the construction is progressing according to schedule and will be complete well before the finals of the championship.\n\nSince Ment Hall is the only major arena in the country that has never hosted a Piasek Cup event, the hall's owners were proud to have been chosen to host this year's finale. The final game will inaugurate the refurbished hall. The event is expected to draw thousands of volleyball fans, and the organizers are confident that Ment Hall will live up to the occasion. Seating 19,000 spectators, Ment Hall will be double its previous size.\n\nTournament Schedule (Piasek Cup Volleyball Championship):\nQuarterfinal Games:\n• Venezuela vs Australia: 10 June, 3:00 P.M. at Loave Arena, Bydgoszcz\n• Poland vs France: 10 June, 6:00 P.M. at Timpani Hall, Katowice\n• Brazil vs USA: 11 June, 3:00 P.M. at Polana Center, Cracow\n• Cuba vs Egypt: 11 June, 6:00 P.M. at Mistrz Arena, Wroclaw\n\nSemifinal Games:\n• Winners of 10 June games: 13 June, 3:00 P.M. at Timpani Hall, Katowice\n• Winners of 11 June games: 13 June, 3:00 P.M. at Polana Center, Cracow\n\nFinal Game:\n• 16 June, 6:00 P.M. at Ment Hall, Warsaw\n\nNOTE: Tickets for the final game are selling fast, so don't wait until after the semifinal games to order. Reserved seating only, no general admission. No refunds.\n\nNews Update (HALLAX RADIO 108.3 FM, Sports - Volleyball, 10 June):\nAt 3:00 P.M., Venezuela will take on Australia for qualification to the semifinals. Our guest announcer will be Vin Cote, retired coach of last year's winning team from Canada. At 6:00 P.M., host team Poland will face off against France. The game will be covered live by Jeremy Bosko.",
+    "text": "When will the first game be held at a new host venue?",
+    "options": {
+      "A": "On June 10",
+      "B": "On June 13",
+      "C": "On June 14",
+      "D": "On June 16"
+    },
+    "correct": "D",
+    "hint": "Bài báo nêu: 'Ment Hall is the only major arena in the country that has never hosted a Piasek Cup event... The final game will inaugurate the refurbished hall'. Trận chung kết tại Ment Hall diễn ra vào ngày 16 tháng 6 (On June 16)."
+  },
+  {
+    "num": 199,
+    "part": 7,
+    "passage_title": "Questions 196-200 refer to the following article, schedule, and news update.",
+    "passage_text": "Article:\nMent Hall to Host Piasek Cup Final\nMent Hall, which is currently undergoing extensive renovation, will be ready to host the final game of the Piasek Cup Volleyball Championship to be held in Warsaw this June. Although the project has been in the works for some time, it was the opportunity to host this championship that provided the economic incentive to push the project to its completion. City officials have confirmed that the construction is progressing according to schedule and will be complete well before the finals of the championship.\n\nSince Ment Hall is the only major arena in the country that has never hosted a Piasek Cup event, the hall's owners were proud to have been chosen to host this year's finale. The final game will inaugurate the refurbished hall. The event is expected to draw thousands of volleyball fans, and the organizers are confident that Ment Hall will live up to the occasion. Seating 19,000 spectators, Ment Hall will be double its previous size.\n\nTournament Schedule (Piasek Cup Volleyball Championship):\nQuarterfinal Games:\n• Venezuela vs Australia: 10 June, 3:00 P.M. at Loave Arena, Bydgoszcz\n• Poland vs France: 10 June, 6:00 P.M. at Timpani Hall, Katowice\n• Brazil vs USA: 11 June, 3:00 P.M. at Polana Center, Cracow\n• Cuba vs Egypt: 11 June, 6:00 P.M. at Mistrz Arena, Wroclaw\n\nSemifinal Games:\n• Winners of 10 June games: 13 June, 3:00 P.M. at Timpani Hall, Katowice\n• Winners of 11 June games: 13 June, 3:00 P.M. at Polana Center, Cracow\n\nFinal Game:\n• 16 June, 6:00 P.M. at Ment Hall, Warsaw\n\nNOTE: Tickets for the final game are selling fast, so don't wait until after the semifinal games to order. Reserved seating only, no general admission. No refunds.\n\nNews Update (HALLAX RADIO 108.3 FM, Sports - Volleyball, 10 June):\nAt 3:00 P.M., Venezuela will take on Australia for qualification to the semifinals. Our guest announcer will be Vin Cote, retired coach of last year's winning team from Canada. At 6:00 P.M., host team Poland will face off against France. The game will be covered live by Jeremy Bosko.",
+    "text": "In the schedule, what are people advised to do?",
+    "options": {
+      "A": "Request a refund for tickets that they do not plan to use",
+      "B": "Order tickets immediately after the semifinal games",
+      "C": "Buy tickets for the final game as soon as possible",
+      "D": "Arrive at the final game early"
+    },
+    "correct": "C",
+    "hint": "Dẫn chứng trong mục NOTE: 'Tickets for the final game are selling fast, so don't wait until after the semifinal games to order' -> Hãy mua vé trận chung kết càng sớm càng tốt (Buy tickets for the final game as soon as possible)."
+  },
+  {
+    "num": 200,
+    "part": 7,
+    "passage_title": "Questions 196-200 refer to the following article, schedule, and news update.",
+    "passage_text": "Article:\nMent Hall to Host Piasek Cup Final\nMent Hall, which is currently undergoing extensive renovation, will be ready to host the final game of the Piasek Cup Volleyball Championship to be held in Warsaw this June. Although the project has been in the works for some time, it was the opportunity to host this championship that provided the economic incentive to push the project to its completion. City officials have confirmed that the construction is progressing according to schedule and will be complete well before the finals of the championship.\n\nSince Ment Hall is the only major arena in the country that has never hosted a Piasek Cup event, the hall's owners were proud to have been chosen to host this year's finale. The final game will inaugurate the refurbished hall. The event is expected to draw thousands of volleyball fans, and the organizers are confident that Ment Hall will live up to the occasion. Seating 19,000 spectators, Ment Hall will be double its previous size.\n\nTournament Schedule (Piasek Cup Volleyball Championship):\nQuarterfinal Games:\n• Venezuela vs Australia: 10 June, 3:00 P.M. at Loave Arena, Bydgoszcz\n• Poland vs France: 10 June, 6:00 P.M. at Timpani Hall, Katowice\n• Brazil vs USA: 11 June, 3:00 P.M. at Polana Center, Cracow\n• Cuba vs Egypt: 11 June, 6:00 P.M. at Mistrz Arena, Wroclaw\n\nSemifinal Games:\n• Winners of 10 June games: 13 June, 3:00 P.M. at Timpani Hall, Katowice\n• Winners of 11 June games: 13 June, 3:00 P.M. at Polana Center, Cracow\n\nFinal Game:\n• 16 June, 6:00 P.M. at Ment Hall, Warsaw\n\nNOTE: Tickets for the final game are selling fast, so don't wait until after the semifinal games to order. Reserved seating only, no general admission. No refunds.\n\nNews Update (HALLAX RADIO 108.3 FM, Sports - Volleyball, 10 June):\nAt 3:00 P.M., Venezuela will take on Australia for qualification to the semifinals. Our guest announcer will be Vin Cote, retired coach of last year's winning team from Canada. At 6:00 P.M., host team Poland will face off against France. The game will be covered live by Jeremy Bosko.",
+    "text": "Where will Mr. Cote be reporting from?",
+    "options": {
+      "A": "Bydgoszcz",
+      "B": "Katowice",
+      "C": "Cracow",
+      "D": "Wroclaw"
+    },
+    "correct": "A",
+    "hint": "Bản tin phát thanh ghi: 'At 3:00 P.M., Venezuela will take on Australia... Our guest announcer will be Vin Cote'. Tra bảng lịch trình: trận Venezuela - Australia lúc 3:00 P.M. ngày 10 June diễn ra tại Loave Arena, thành phố Bydgoszcz."
+  }
+]

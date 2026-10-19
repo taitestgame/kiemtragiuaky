@@ -1,0 +1,317 @@
+# -*- coding: utf-8 -*-
+"""
+Generate comprehensive Figma Vector Artboards SVG (figma_toeic_design.svg)
+Can be imported directly into Figma by dragging and dropping.
+"""
+
+def generate_svg():
+    svg = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3800 2100" width="3800" height="2100" style="background:#0F172A; font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="grad-primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#0EA5E9" />
+    </linearGradient>
+    <linearGradient id="grad-success" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- Title Canvas -->
+  <text x="80" y="80" font-size="32" font-weight="bold" fill="#FFFFFF">TOEIC READING V02 - DESIGN SYSTEM &amp; UI SCREENS</text>
+  <text x="80" y="115" font-size="16" fill="#94A3B8">Figma Design Specifications for Web Admin (Lecturer) &amp; Mobile App (Flutter Student)</text>
+
+  <!-- ========================================== -->
+  <!-- FRAME 1: WEB ADMIN DASHBOARD (1100 x 750) -->
+  <!-- ========================================== -->
+  <g transform="translate(80, 160)" filter="url(#shadow)">
+    <!-- Browser Window Frame -->
+    <rect width="1100" height="750" rx="16" fill="#F8FAFC" />
+    <!-- Window Bar -->
+    <rect width="1100" height="44" rx="16" fill="#1E293B" />
+    <rect y="20" width="1100" height="24" fill="#1E293B" />
+    <circle cx="24" cy="22" r="6" fill="#EF4444" />
+    <circle cx="44" cy="22" r="6" fill="#F59E0B" />
+    <circle cx="64" cy="22" r="6" fill="#10B981" />
+    <text x="550" y="27" font-size="12" fill="#94A3B8" text-anchor="middle">admin.toeic.edu.vn/dashboard - Giảng Viên</text>
+
+    <!-- Header Nav -->
+    <rect y="44" width="1100" height="60" fill="#FFFFFF" />
+    <rect x="30" y="58" width="100" height="32" rx="6" fill="url(#grad-primary)" />
+    <text x="80" y="79" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TOEIC 2026</text>
+    <text x="145" y="79" font-size="15" font-weight="bold" fill="#0F172A">Hệ Thống Quản Trị Đề Thi</text>
+    <text x="960" y="79" font-size="13" fill="#64748B">GV. Nguyễn Văn A ▾</text>
+
+    <!-- Stat Cards (4 cols) -->
+    <g transform="translate(30, 125)">
+      <!-- Card 1 -->
+      <rect width="240" height="90" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+      <text x="20" y="30" font-size="11" font-weight="bold" fill="#64748B">TỔNG SỐ ĐỀ THI</text>
+      <text x="20" y="65" font-size="28" font-weight="bold" fill="#0F172A">12</text>
+      <text x="120" y="65" font-size="11" fill="#10B981">↑ 2 đề mới</text>
+
+      <!-- Card 2 -->
+      <rect x="265" width="240" height="90" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+      <text x="285" y="30" font-size="11" font-weight="bold" fill="#64748B">LƯỢT SINH VIÊN THI</text>
+      <text x="285" y="65" font-size="28" font-weight="bold" fill="#0F172A">1,420</text>
+      <text x="390" y="65" font-size="11" fill="#10B981">↑ 18.5%</text>
+
+      <!-- Card 3 -->
+      <rect x="530" width="240" height="90" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+      <text x="550" y="30" font-size="11" font-weight="bold" fill="#64748B">ĐIỂM TRUNG BÌNH</text>
+      <text x="550" y="65" font-size="28" font-weight="bold" fill="#0F172A">365/495</text>
+      <text x="690" y="65" font-size="11" fill="#2563EB">73.7%</text>
+
+      <!-- Card 4 -->
+      <rect x="795" width="245" height="90" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+      <text x="815" y="30" font-size="11" font-weight="bold" fill="#64748B">CA THI HIỆN TẠI</text>
+      <text x="815" y="65" font-size="22" font-weight="bold" fill="#10B981">Reading v02</text>
+    </g>
+
+    <!-- Top 10 Câu Hỏi Sai Nhiều Nhất Table -->
+    <g transform="translate(30, 240)">
+      <rect width="1040" height="470" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+      <text x="24" y="36" font-size="15" font-weight="bold" fill="#0F172A">Top Câu Hỏi Sinh Viên Hay Sai Nhất (Thống Kê Đề Reading v02)</text>
+      
+      <!-- Table Header -->
+      <rect x="24" y="55" width="992" height="36" rx="6" fill="#F1F5F9" />
+      <text x="44" y="78" font-size="12" font-weight="bold" fill="#475569">Câu #</text>
+      <text x="120" y="78" font-size="12" font-weight="bold" fill="#475569">Phần Thi</text>
+      <text x="240" y="78" font-size="12" font-weight="bold" fill="#475569">Nội Dung Câu Hỏi</text>
+      <text x="680" y="78" font-size="12" font-weight="bold" fill="#475569">Tỷ Lệ Sai</text>
+      <text x="780" y="78" font-size="12" font-weight="bold" fill="#475569">Gợi Ý / Khắc Phục (HINT)</text>
+
+      <!-- Row 1 -->
+      <line x1="24" y1="130" x2="1016" y2="130" stroke="#E2E8F0" />
+      <text x="44" y="115" font-size="13" font-weight="bold" fill="#0F172A">128</text>
+      <rect x="120" y="100" width="60" height="22" rx="4" fill="#DBEAFE" />
+      <text x="150" y="115" font-size="11" font-weight="bold" fill="#1D4ED8" text-anchor="middle">Part 5</text>
+      <text x="240" y="115" font-size="12.5" fill="#1E293B">------- poorly the high-speed printer may be functioning...</text>
+      <text x="680" y="115" font-size="13" font-weight="bold" fill="#EF4444">68.4%</text>
+      <text x="780" y="115" font-size="11.5" fill="#475569">Cấu trúc nhượng bộ: However + adv + S + V</text>
+
+      <!-- Row 2 -->
+      <line x1="24" y1="175" x2="1016" y2="175" stroke="#E2E8F0" />
+      <text x="44" y="160" font-size="13" font-weight="bold" fill="#0F172A">187</text>
+      <rect x="120" y="145" width="60" height="22" rx="4" fill="#DBEAFE" />
+      <text x="150" y="160" font-size="11" font-weight="bold" fill="#1D4ED8" text-anchor="middle">Part 7</text>
+      <text x="240" y="160" font-size="12.5" fill="#1E293B">What aspect of the property does NOT match Mr. Janssen...</text>
+      <text x="680" y="160" font-size="13" font-weight="bold" fill="#EF4444">64.2%</text>
+      <text x="780" y="160" font-size="11.5" fill="#475569">Chi phí hàng tháng vượt ngân sách (loại trừ điện nước)</text>
+
+      <!-- Row 3 -->
+      <line x1="24" y1="220" x2="1016" y2="220" stroke="#E2E8F0" />
+      <text x="44" y="205" font-size="13" font-weight="bold" fill="#0F172A">198</text>
+      <rect x="120" y="190" width="60" height="22" rx="4" fill="#DBEAFE" />
+      <text x="150" y="205" font-size="11" font-weight="bold" fill="#1D4ED8" text-anchor="middle">Part 7</text>
+      <text x="240" y="205" font-size="12.5" fill="#1E293B">When will the first game be held at a new host venue?</text>
+      <text x="680" y="205" font-size="13" font-weight="bold" fill="#EF4444">59.1%</text>
+      <text x="780" y="205" font-size="11.5" fill="#475569">Trận chung kết tại Ment Hall vào ngày 16 tháng 6</text>
+    </g>
+  </g>
+
+  <!-- ==================================================== -->
+  <!-- FRAME 2: WEB ADMIN UPLOAD & VALIDATOR (1100 x 750)  -->
+  <!-- ==================================================== -->
+  <g transform="translate(1250, 160)" filter="url(#shadow)">
+    <rect width="1100" height="750" rx="16" fill="#F8FAFC" />
+    <rect width="1100" height="44" rx="16" fill="#1E293B" />
+    <rect y="20" width="1100" height="24" fill="#1E293B" />
+    <circle cx="24" cy="22" r="6" fill="#EF4444" />
+    <circle cx="44" cy="22" r="6" fill="#F59E0B" />
+    <circle cx="64" cy="22" r="6" fill="#10B981" />
+    <text x="550" y="27" font-size="12" fill="#94A3B8" text-anchor="middle">admin.toeic.edu.vn/import-exam - Kiểm Tra File Word</text>
+
+    <!-- Upload Card -->
+    <g transform="translate(40, 70)">
+      <rect width="1020" height="640" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+      <text x="30" y="40" font-size="16" font-weight="bold" fill="#0F172A">Tạo Đề Thi Từ File WORD (.docx) &amp; Quét Cú Pháp Thẻ (Tags)</text>
+      
+      <!-- Drag Drop Box -->
+      <rect x="30" y="65" width="960" height="150" rx="12" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2" stroke-dasharray="6" />
+      <text x="510" y="125" font-size="32" text-anchor="middle">📄</text>
+      <text x="510" y="160" font-size="14" font-weight="bold" fill="#1E3A8A" text-anchor="middle">Kéo thả file Reading v02.docx vào đây hoặc bấm để chọn</text>
+      <text x="510" y="185" font-size="12" fill="#64748B" text-anchor="middle">Kiểm tra nghiêm ngặt 100% thẻ: [EXAM_BEGIN], [PART], [QUESTION], [CORRECT], [HINT]</text>
+
+      <!-- Rollback Error Banner Demo -->
+      <rect x="30" y="235" width="960" height="175" rx="10" fill="#FEF2F2" stroke="#F87171" stroke-width="1.5" />
+      <text x="50" y="265" font-size="15" font-weight="bold" fill="#991B1B">🚫 PHÁT HIỆN LỖI ĐỊNH DẠNG - HỆ THỐNG ĐÃ HỦY BỎ TOÀN BỘ (ROLLBACK)!</text>
+      <text x="50" y="290" font-size="12.5" fill="#7F1D1D">File test_invalid_exam.docx không đạt chuẩn 100%. Dữ liệu KHÔNG được lưu vào SQL Server:</text>
+      <text x="70" y="320" font-size="12" fill="#B91C1C">• [Lỗi 1]: Dòng 13 - Sai số thứ tự câu hỏi: Đang mong đợi câu 102 nhưng nhận được câu 105</text>
+      <text x="70" y="345" font-size="12" fill="#B91C1C">• [Lỗi 2]: Câu 105 - Thiếu lựa chọn đáp án [D] (chỉ tìm thấy A, B, C)</text>
+      <text x="70" y="370" font-size="12" fill="#B91C1C">• [Lỗi 3]: Câu 105 - Thiếu thẻ xác định đáp án đúng [CORRECT: A/B/C/D]</text>
+      <text x="70" y="395" font-size="12" fill="#B91C1C">• [Lỗi 4]: Thiếu thẻ bắt đầu [EXAM_BEGIN] và thẻ kết thúc [EXAM_END]</text>
+
+      <!-- Success Banner Demo -->
+      <rect x="30" y="425" width="960" height="150" rx="10" fill="#ECFDF5" stroke="#34D399" stroke-width="1.5" />
+      <text x="50" y="455" font-size="15" font-weight="bold" fill="#065F46">✅ XÁC THỰC THÀNH CÔNG 100% - ĐÃ LƯU VÀO CSDL MICROSOFT SQL SERVER!</text>
+      <text x="50" y="480" font-size="12.5" fill="#047857">File Reading v02.docx: Đầy đủ 100 câu hỏi (Part 5: 30 câu, Part 6: 16 câu, Part 7: 54 câu).</text>
+      <text x="70" y="510" font-size="12" fill="#047857">• Đã chèn dữ liệu vào bảng Exams, QuestionGroups, Questions, Answers trên SQL Server.</text>
+      <text x="70" y="535" font-size="12" fill="#047857">• Sẵn sàng kích hoạt ca thi cho thí sinh trên ứng dụng di động Flutter.</text>
+
+      <!-- Buttons -->
+      <rect x="790" y="585" width="200" height="40" rx="8" fill="#10B981" />
+      <text x="890" y="610" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Kích Hoạt Ca Thi Ngay</text>
+    </g>
+  </g>
+
+  <!-- ==================================================== -->
+  <!-- FRAME 4, 5, 6: MOBILE FLUTTER APP (390 x 844 x 3)    -->
+  <!-- ==================================================== -->
+  
+  <!-- MOBILE SCREEN 1: EXAM LIST (No login) -->
+  <g transform="translate(2420, 160)" filter="url(#shadow)">
+    <!-- Phone Body -->
+    <rect width="390" height="780" rx="40" fill="#FFFFFF" stroke="#0F172A" stroke-width="10" />
+    <rect x="130" y="10" width="130" height="22" rx="11" fill="#0F172A" />
+
+    <!-- App Bar -->
+    <text x="24" y="65" font-size="18" font-weight="bold" fill="#0F172A">Kỳ Thi TOEIC Reading</text>
+    <rect x="260" y="48" width="105" height="24" rx="12" fill="#DBEAFE" />
+    <text x="312" y="64" font-size="11" font-weight="bold" fill="#1D4ED8" text-anchor="middle">Thí Sinh Tự Do</text>
+
+    <!-- Banner -->
+    <rect x="20" y="90" width="350" height="110" rx="16" fill="url(#grad-primary)" />
+    <text x="36" y="120" font-size="11" fill="#FFFFFF" opacity="0.8">TOEIC Reading 2026</text>
+    <text x="36" y="145" font-size="17" font-weight="bold" fill="#FFFFFF">Luyện Thi Trực Tuyến</text>
+    <text x="36" y="172" font-size="11" fill="#FFFFFF">75 phút • 100 câu • Nộp tối thiểu từ 1 câu</text>
+
+    <!-- Exam Card Active -->
+    <rect x="20" y="220" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#2563EB" stroke-width="2" />
+    <rect x="36" y="236" width="95" height="22" rx="11" fill="#D1FAE5" />
+    <text x="83" y="251" font-size="10.5" font-weight="bold" fill="#065F46" text-anchor="middle">● ĐANG MỞ THI</text>
+    <text x="330" y="251" font-size="12" font-weight="bold" fill="#64748B" text-anchor="end">⏱ 75 phút</text>
+    <text x="36" y="285" font-size="15" font-weight="bold" fill="#0F172A">Reading Test v02</text>
+    <text x="36" y="310" font-size="12" fill="#64748B">100 câu: Part 5 (101-130), Part 6, Part 7</text>
+    <rect x="235" y="335" width="120" height="38" rx="10" fill="#2563EB" />
+    <text x="295" y="359" font-size="12.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Bắt Đầu Thi ▶</text>
+    <text x="195" y="740" font-size="12" font-weight="bold" fill="#2563EB" text-anchor="middle">Màn hình 1: Danh Sách Đề (Không cần Login)</text>
+  </g>
+
+  <!-- MOBILE SCREEN 2: EXAM TAKING -->
+  <g transform="translate(2860, 160)" filter="url(#shadow)">
+    <rect width="390" height="780" rx="40" fill="#F8FAFC" stroke="#0F172A" stroke-width="10" />
+    <rect x="130" y="10" width="130" height="22" rx="11" fill="#0F172A" />
+
+    <!-- Top Bar with 75m Timer -->
+    <rect y="35" width="390" height="55" fill="#FFFFFF" stroke="#E2E8F0" />
+    <text x="24" y="60" font-size="13" font-weight="bold" fill="#2563EB">PART 5 • Reading v02</text>
+    <text x="24" y="76" font-size="11" fill="#64748B">Câu 101 / 200</text>
+    <!-- Timer -->
+    <rect x="280" y="48" width="90" height="28" rx="14" fill="#FEE2E2" />
+    <text x="325" y="67" font-size="13" font-weight="bold" fill="#991B1B" text-anchor="middle">⏱ 74:58</text>
+
+    <!-- Progress Line -->
+    <rect y="90" width="390" height="4" fill="#E2E8F0" />
+    <rect y="90" width="180" height="4" fill="#2563EB" />
+
+    <!-- Question Card -->
+    <rect x="16" y="110" width="358" height="340" rx="16" fill="#FFFFFF" stroke="#E2E8F0" />
+    <text x="32" y="140" font-size="14" font-weight="bold" fill="#2563EB">Câu 101.</text>
+    <text x="32" y="165" font-size="13" font-weight="600" fill="#0F172A">Ms. Carpenter will be attending the conference</text>
+    <text x="32" y="185" font-size="13" font-weight="600" fill="#0F172A">with ------- marketing team.</text>
+
+    <!-- Options -->
+    <!-- Opt A -->
+    <rect x="32" y="210" width="326" height="42" rx="10" fill="#FFFFFF" stroke="#E2E8F0" />
+    <circle cx="54" cy="231" r="12" fill="#F1F5F9" />
+    <text x="54" y="235" font-size="11" font-weight="bold" fill="#475569" text-anchor="middle">A</text>
+    <text x="76" y="236" font-size="13" fill="#1E293B">she</text>
+
+    <!-- Opt B (Selected) -->
+    <rect x="32" y="262" width="326" height="42" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="2" />
+    <circle cx="54" cy="283" r="12" fill="#2563EB" />
+    <text x="54" y="287" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text>
+    <text x="76" y="288" font-size="13" font-weight="bold" fill="#1D4ED8">her (Đang chọn)</text>
+
+    <!-- Opt C -->
+    <rect x="32" y="314" width="326" height="42" rx="10" fill="#FFFFFF" stroke="#E2E8F0" />
+    <circle cx="54" cy="335" r="12" fill="#F1F5F9" />
+    <text x="54" y="339" font-size="11" font-weight="bold" fill="#475569" text-anchor="middle">C</text>
+    <text x="76" y="340" font-size="13" fill="#1E293B">hers</text>
+
+    <!-- Opt D -->
+    <rect x="32" y="366" width="326" height="42" rx="10" fill="#FFFFFF" stroke="#E2E8F0" />
+    <circle cx="54" cy="387" r="12" fill="#F1F5F9" />
+    <text x="54" y="391" font-size="11" font-weight="bold" fill="#475569" text-anchor="middle">D</text>
+    <text x="76" y="392" font-size="13" fill="#1E293B">herself</text>
+
+    <!-- 100 Questions Palette Sample -->
+    <rect x="16" y="470" width="358" height="150" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+    <text x="32" y="495" font-size="12" font-weight="bold" fill="#0F172A">Bảng câu hỏi (Đã làm: 42/100)</text>
+    <!-- Sample grid dots -->
+    <rect x="32" y="510" width="28" height="28" rx="6" fill="#2563EB" />
+    <text x="46" y="529" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">101</text>
+    <rect x="66" y="510" width="28" height="28" rx="6" fill="#2563EB" />
+    <text x="80" y="529" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">102</text>
+    <rect x="100" y="510" width="28" height="28" rx="6" fill="#F1F5F9" stroke="#CBD5E1" />
+    <text x="114" y="529" font-size="10" fill="#475569" text-anchor="middle">103</text>
+    <rect x="134" y="510" width="28" height="28" rx="6" fill="#2563EB" />
+    <text x="148" y="529" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">104</text>
+
+    <!-- Bottom Nav -->
+    <rect y="640" width="390" height="70" fill="#FFFFFF" stroke="#E2E8F0" />
+    <rect x="20" y="652" width="100" height="42" rx="8" fill="#F1F5F9" />
+    <text x="70" y="677" font-size="12" font-weight="bold" fill="#475569" text-anchor="middle">← Câu Trước</text>
+    <rect x="135" y="652" width="120" height="42" rx="8" fill="#10B981" />
+    <text x="195" y="677" font-size="12.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Nộp Bài (≥1 câu)</text>
+    <rect x="270" y="652" width="100" height="42" rx="8" fill="#2563EB" />
+    <text x="320" y="677" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Câu Sau →</text>
+
+    <text x="195" y="740" font-size="12" font-weight="bold" fill="#2563EB" text-anchor="middle">Màn hình 2: Làm Bài &amp; Palette 100 Câu</text>
+  </g>
+
+  <!-- MOBILE SCREEN 3: EXAM RESULT -->
+  <g transform="translate(3300, 160)" filter="url(#shadow)">
+    <rect width="390" height="780" rx="40" fill="#F8FAFC" stroke="#0F172A" stroke-width="10" />
+    <rect x="130" y="10" width="130" height="22" rx="11" fill="#0F172A" />
+
+    <text x="195" y="70" font-size="17" font-weight="bold" fill="#0F172A" text-anchor="middle">Kết Quả TOEIC Reading</text>
+    <text x="195" y="90" font-size="12" fill="#64748B" text-anchor="middle">Thí sinh: Lê Phan Tiến Nam (2380604608)</text>
+
+    <!-- Score Circle -->
+    <circle cx="195" cy="180" r="70" fill="#ECFDF5" stroke="#10B981" stroke-width="8" />
+    <text x="195" y="185" font-size="36" font-weight="900" fill="#065F46" text-anchor="middle">415</text>
+    <text x="195" y="208" font-size="11" font-weight="bold" fill="#047857" text-anchor="middle">/ 495 ĐIỂM</text>
+
+    <!-- Summary Stats -->
+    <rect x="20" y="275" width="350" height="75" rx="12" fill="#FFFFFF" stroke="#E2E8F0" />
+    <text x="75" y="305" font-size="20" font-weight="bold" fill="#10B981" text-anchor="middle">83</text>
+    <text x="75" y="325" font-size="10.5" fill="#64748B" text-anchor="middle">Số Câu Đúng</text>
+
+    <text x="195" y="305" font-size="20" font-weight="bold" fill="#EF4444" text-anchor="middle">12</text>
+    <text x="195" y="325" font-size="10.5" fill="#64748B" text-anchor="middle">Số Câu Sai</text>
+
+    <text x="315" y="305" font-size="20" font-weight="bold" fill="#64748B" text-anchor="middle">5</text>
+    <text x="315" y="325" font-size="10.5" fill="#64748B" text-anchor="middle">Bỏ Qua</text>
+
+    <!-- Review Section Header -->
+    <text x="24" y="380" font-size="14" font-weight="bold" fill="#0F172A">Xem Lại Lời Giải Chi Tiết (HINT)</text>
+
+    <!-- Review Question Card Sample -->
+    <rect x="20" y="395" width="350" height="150" rx="12" fill="#FFFFFF" stroke="#10B981" stroke-width="1.5" />
+    <text x="36" y="420" font-size="12" font-weight="bold" fill="#0F172A">Câu 101: ĐÚNG ✓</text>
+    <text x="36" y="440" font-size="11.5" fill="#64748B">Bạn chọn: (B) her | Đáp án chuẩn: (B)</text>
+    <rect x="36" y="455" width="318" height="75" rx="6" fill="#F8FAFC" />
+    <line x1="36" y1="455" x2="36" y2="530" stroke="#0EA5E9" stroke-width="4" />
+    <text x="46" y="475" font-size="11" font-weight="bold" fill="#0369A1">💡 Gợi ý giải thích (HINT):</text>
+    <text x="46" y="495" font-size="10.5" fill="#334155">Cần tính từ sở hữu 'her' đứng trước cụm</text>
+    <text x="46" y="512" font-size="10.5" fill="#334155">danh từ 'marketing team'.</text>
+
+    <!-- Back Button -->
+    <rect x="20" y="570" width="350" height="44" rx="10" fill="#2563EB" />
+    <text x="195" y="597" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Quay Lại Danh Sách Đề Thi</text>
+
+    <text x="195" y="740" font-size="12" font-weight="bold" fill="#2563EB" text-anchor="middle">Màn hình 3: Kết Quả &amp; Xem Lại HINT</text>
+  </g>
+</svg>
+'''
+    with open('figma_toeic_design.svg', 'w', encoding='utf-8') as f:
+        f.write(svg)
+    print("Generated figma_toeic_design.svg successfully!")
+
+if __name__ == '__main__':
+    generate_svg()
